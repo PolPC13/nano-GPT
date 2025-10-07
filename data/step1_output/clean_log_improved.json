@@ -1,0 +1,8 @@
+{
+  "header_regex": "(?im)^(?:Vocabulari_Lluis_Faraudo|Vocabulari|^\\s*els mots\\s*$|indd)\\s*$",
+  "removed_meta_examples": [],
+  "hyphenation_before": 194,
+  "hyphenation_after": 1,
+  "chars_before": 265315,
+  "chars_after": 264920
+}

@@ -1,18 +1,15 @@
-# parse_vocabulari_final_v2.py
-# Script mejorado para crear un dataset de catalán medieval.
+# parse_vocabulari_final_v3.py
+# Script corregido para asegurar la captura completa de los lemas.
 
 import re
 import json
 
-print("Procesando vocabulario catalán medieval con el script mejorado...")
+print("Procesando vocabulario catalán medieval con el script v3 (lema corregido)...")
 
 # --- CONFIGURACIÓN ---
-# Coloca aquí la ruta a tu archivo de corpus.
-# Para el ejemplo, usaré el contenido del JSONL que me has proporcionado.
-# Idealmente, aquí iría la ruta a 'clean_corpus_improved.txt'.
 input_file_path = '/Users/polpedrajas/Desktop/PythonProjects/nano-GPT/data/step1_output/clean_corpus_improved.txt' 
-output_txt_file = 'catalan_medieval_dataset_v2.txt'
-output_jsonl_file = 'catalan_medieval_structured_v2.jsonl'
+output_txt_file = 'catalan_medieval_dataset_v3.txt'
+output_jsonl_file = 'catalan_medieval_structured_v3.jsonl'
 
 # --- LECTURA DEL ARCHIVO ---
 try:
@@ -24,29 +21,22 @@ except FileNotFoundError:
 
 # --- PATRONES REGEX MEJORADOS ---
 
-# Patrón de entrada mejorado:
-# 1. El grupo de la categoría gramatical (s., v., adj., etc.) ahora es opcional.
-#    Esto permite capturar entradas que solo tienen un lema y una definición.
-# 2. Simplificado para mayor claridad.
+# Patrón de entrada con la corrección en el lema:
+# CORRECCIÓN CLAVE: Se elimina el '?' para que el `+` sea "codicioso" (greedy).
+# Esto asegura que capture el lema completo, incluso si contiene espacios,
+# hasta justo antes de las variantes o la categoría gramatical.
 entry_pattern = re.compile(
-    r'^([A-ZÀÈÉÍÒÓÚ][A-ZÀÈÉÍÒÓÚÏÜ\s\'\-\(\)]+?)'  # 1: Lema (ej. "ADZEBRÓ")
+    r'^([A-ZÀÈÉÍÒÓÚ][A-ZÀÈÉÍÒÓÚÏÜ\s\'\-\(\)]+)'  # 1: Lema (ej. "ADZEBRÓ" o "ARC ANGLÈS")
     r'\s*(?:\[([^\]]+)\])?'                         # 2: Variante opcional (ej. "HAERIPILL")
     r'\s*(\[?(?:s|v|adj|adv|prep|interj|conj|loc|fr|num|art|un)\.?[^\]]*\]?)?', # 3: Categoría opcional y más flexible (ej. "[s.]")
     re.MULTILINE
 )
 
-# Patrón de ejemplos mejorado:
-# 1. Captura correctamente diferentes tipos de comillas: "", «», “”.
-# 2. Utiliza un cuantificador no codicioso (*?) para manejar múltiples citas en una línea.
 example_pattern = re.compile(r'["«“](.*?)["»”]', re.DOTALL)
 
-
 # --- PROCESAMIENTO ---
-
-# Detectar posiciones de entradas
 entries = []
 for match in entry_pattern.finditer(content):
-    # El grupo 1 es el lema, el 2 la variante, el 3 la categoría
     lema, variante, categoria = match.groups()
     
     entries.append({
@@ -65,30 +55,22 @@ for i, entry in enumerate(entries):
     end_body = entries[i+1]['start'] if i < len(entries)-1 else len(content)
     body = content[start_body:end_body].strip()
     
-    # Extraer todos los ejemplos de forma precisa
     ejemplos = example_pattern.findall(body)
     ejemplos_clean = [' '.join(ej.split()) for ej in ejemplos if len(ej.strip()) > 15]
     
-    # Extraer la definición: es el texto que queda ANTES del primer ejemplo.
-    # Si no hay ejemplos, la definición es todo el cuerpo del texto.
     first_example_match = example_pattern.search(body)
     if first_example_match:
         definicion_raw = body[:first_example_match.start()]
     else:
         definicion_raw = body
         
-    # Limpieza avanzada de la definición
-    # Eliminar marcadores de lista, referencias "V." (Vegeu) al final y espacios extra.
     definicion_clean = re.sub(r'^\d+\.\s*(DA:)?\s*', '', definicion_raw.strip())
     definicion_clean = re.sub(r'\s*V\.\s+[\w\s,.-]+$', '', definicion_clean)
     definicion_clean = ' '.join(definicion_clean.split())
 
-    # Si la definición queda vacía después de la limpieza pero hay ejemplos,
-    # la omitimos para no tener tags <DEF> sin contenido.
     if not definicion_clean and not ejemplos_clean:
         continue
 
-    # --- Construir la secuencia final para el dataset ---
     lema = entry['lema']
     cat_str = f"[{entry['categoria']}]" if entry['categoria'] else ""
     var_str = f" [{entry['variante']}]" if entry['variante'] else ""
@@ -96,38 +78,32 @@ for i, entry in enumerate(entries):
     seq_parts = [f"<LEMA> {lema}{var_str} {cat_str}".strip()]
     
     if definicion_clean:
-        seq_parts.append(f"<DEF> {definicion_clean[:250]}") # Truncar para seguridad
+        seq_parts.append(f"<DEF> {definicion_clean[:300]}")
         
     if ejemplos_clean:
-        # Unir hasta dos ejemplos y truncar para no exceder el límite.
         ejemplos_text = " ".join(ejemplos_clean[:2])[:400]
         seq_parts.append(f"<EX> {ejemplos_text}")
         
     seq_parts.append("<END>")
     
-    # Unir todas las partes con un espacio
     final_seq = " ".join(seq_parts)
-    # Reemplazar múltiples espacios por uno solo para un formato final limpio
-    final_seq = re.sub(r'\s+', ' ', final_seq).replace(' ]', ']')
+    final_seq = re.sub(r'\s+', ' ', final_seq).replace(' ]', ']').replace(' [', '[')
     
     dataset_lines.append(final_seq)
 
 # --- GUARDADO DE ARCHIVOS ---
-
-# Guardar dataset para nanoGPT
 with open(output_txt_file, 'w', encoding='utf-8') as f:
     f.write('\n\n'.join(dataset_lines))
 
-# Guardar también JSON estructurado
 with open(output_jsonl_file, 'w', encoding='utf-8') as f:
     for i, line in enumerate(dataset_lines):
         json.dump({'id': i+1, 'text': line}, f, ensure_ascii=False)
         f.write('\n')
 
 # --- FINALIZACIÓN ---
-print(f"\n✓ Dataset mejorado creado: {output_txt_file}")
-print(f"✓ JSON estructurado mejorado: {output_jsonl_file}")
-print(f"✓ Total de entradas procesadas con éxito: {len(dataset_lines)}")
-print(f"\nPrimeras 3 líneas del nuevo dataset:\n")
-for line in dataset_lines[:3]:
-    print(line[:150] + "...\n")
+print(f"\n✓ Dataset corregido creado: {output_txt_file}")
+print(f"✓ JSON estructurado corregido: {output_jsonl_file}")
+print(f"✓ Total de entradas procesadas: {len(dataset_lines)}")
+print(f"\nEjemplo de la primera línea corregida:\n")
+if dataset_lines:
+    print(dataset_lines[0])

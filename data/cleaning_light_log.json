@@ -1,0 +1,13 @@
+{
+  "stats": {
+    "original": 314,
+    "corregidos": 73,
+    "eliminados": 17,
+    "sin_cambios": 224
+  },
+  "final_entries": 297,
+  "final_chars": 139650,
+  "avg_chars": 470.2020202020202,
+  "entries_with_examples": 259,
+  "example_coverage": 87.20538720538721
+}

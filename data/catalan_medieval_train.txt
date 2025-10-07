@@ -1,0 +1,527 @@
+<MOT> ADZEBRÓ <DEF> 1 s. Mena de fruita. <EX> Apres hic ha panses blanques e negres, figues, molt oli,… teronges, limons, limes, adzebrons… <END>
+
+<MOT> AERIPILL <DEF> ,[HAERIPILL] s. Agre o niu d’au de presa. <EX> Lo primer linatge de nobles ffalcons e lo pus noble que sia es aquell que alguns homens apellen sacre, e Simacus lo apella brotany e alguns altres lo apellen haeripill, quaix qui vol dir ffalco qui ha mal aher. <END>
+
+<MOT> ALAFIA <DEF> [s. Vènia, llicencia, perdó. “Empero en lo present capitol no sien entesos los catius qui vindran ab alafia, e que dins los dits termens los haien retuts o tornats ab alafia.” Capítols e ordinacions fetes per l’ofici de mestre de guaita Mallorca, 1451 ALAIRÍ,[ALHAYRI]] <DEF> s. Nom arabitzat del violer groc (Cheiranthus cheiri, L.), planta crucífera. 1. DA: <EX> Atzebrons ?: figura en l’enumeració de les fruites de València, per Eiximenis Alhayri es herba que fa les flors de .iij. maneres: blanques e vermelles e groges. He dix Galiens que la ssua substançia es freda e ssequa, e la ssabor amarga, e escalfa e escura e dona ssimplea, e tol los ssenyals grossos dels ulls. <END>
+
+<MOT> ALBRUIXÓ <DEF> ,[ALBRUXO] s. Calabruixó. <EX> …e soptosament induhia vents, e pluges, e corruscacions, e albruxons, e tremolaments de terra molt espaventables… <END>
+
+<MOT> AMBRE (MAGRANA D <DEF> ’ ___) un. pluri. Petit joiell de forma esfèrica per a contenir ambre en pols o altres perfums. <EX> Item done an Bonanat de Pedralbes porter del senyor Rey, los quals li eren deguts per la Cort del senyor Rey ab albara de scriva de racio, per raho de una unça e miga e mig quarto d argent lo qual mes en guarnir vj. magranes d ambre que ha fetes obs del dit senyor e per altres coses en lo dit albara contengudes… xl. solidos, vj. diners barchinonenses. <END>
+
+<MOT> ANFRACTE <DEF> ,[AMFRACTE] s. Ruptura, sinuositat. <EX> …e aquells induexen que la part d aquells favoresquen e en los amfractes e bregues d aquella guerra o bandositats se mesclen… <END>
+
+<MOT> CAMALLOC <DEF> ,[CAMALLOCH] s. Art de pesca. <EX> …tenen bolichs, cintes, tirones… bertols, anguileres, nanses, camallochs, morbells… <END>
+
+<MOT> COINQUINAT <DEF> , ADA adj. Difamat, envilit. <EX> angelical es l hom carnal de carn exint, en carn vivint e no tombat, coinquinat en tal ruyna. <END>
+
+<MOT> DEBOXAT <DEF> , ADA adj. Esculpit, dibuixat. <EX> Esguardant e prenent se esment de la espasa qui en lo amanti de bori era deboxada ab figures entretallades e ab senyal del Rey de Athenes… …e les altres vint e sis lliures, tretze sous e quatre diners, com lo dit retaule sera enguixat, deboxat e mes en sisa… <END>
+
+<MOT> DEBOXAT <DEF> , ADA adj. Empolistrat, empolainat. <EX> Quant be seran arresades e deboxades, si algu les mirave les mamelles, les quals elles desigen per tot hom esser mirades, car per axo les trahen deffora, amaguen les corrent, volents donar a entendre que no han plaser que hom les vege. <END>
+
+<MOT> DESERTRUÓS <DEF> , OSA adj. Dolent, errat. <EX> De lles monges ja us vets tot dia Les de paratge Com tenen desertruos usatge Car van pintades. <END>
+
+<MOT> DESHONDRIA <DEF> ,4[DESONDRIA] s. Deshonra, afront. <EX> Jo vull anar a ell, e vull soffrir les sues desondries e castichs, car ell fa molt gran raho. <END>
+
+<MOT> DIARREDON <DEF> [s. Confecció farmacèutica. “Un dobleret de polvores de diarredon que pesa ab lo saquet .ij. onçes e miya. Altre aludeta de diarredon que pesa ab la aludeta .ij. onçes.” Inventari d’una especieria Cervera, 1373 DRAGONCELL,[DRAGONSEL]] <DEF> s. Dragoncella, tel o taca opaca precursora de la cataracta que es forma a la nina de l’ull. V. dragoncella. <EX> Malvisch ha virtut que si prens la flor d ell e la mescles ab vi purga les plagues. E en tal guisa fet sanals dragonsels… <END>
+
+<MOT> DRAGONCELLA <DEF> ,[DRAGONTELLA] s. Tel o taca opaca precursora de la cataracta que es forma a la nina de l’ull. V. dragoncell. <EX> …e es aquesta la primera virtut que si prens la flor d ell e la mescles ab vi, purga les plagues; en tal guisa feyt sagna les dragoncelles… Del malvisch <END>
+
+<MOT> EIXEN <DEF> Ç ROMAN un. pluri. Artemisa pontica, L. planta composta medicinal. <EX> E dix Johan Dalmaçen que l exenç es la cuscute rromana, e es de .iij. maneres: la primera es l exenç, e l altre l exenç rroman, e l altre aquel que hom apele tanaritra e aquel val mes. <END>
+
+<MOT> EIXENU <DEF> Ç,[EXENUÇ, EXANUÇ, EXENUZ, EXENUC] s. Planta mirtàcia, el Myrtus pimenta, L. usada en medicina. <EX> …e pendras un dracma de exenuç, altre tant de alfobles e hun manol de malvins e la sua lavor… …e en la dita olla ab lo dit levat destemprat metras estes coses qui s segueixen: Primo alfolbes be moltes, exenuc be molt, batafaluga be molta… <END>
+
+<MOT> ELÍS <DEF> , ISA adj. Elidit, esvaït. <EX> …la dita Blanquina Casafranca no fonch ni es en alguna manera excensa ni elisa, ans per les proves… nos consta la dita Blanquina de Casafranca esser heretica… <END>
+
+<MOT> ESCURALEA <DEF> ,[SCURALEA] s. Obscuritat. V. escuredat. <EX> Item si picat lo mescles ab vidre purga la escuralea dels uyls… <END>
+
+<MOT> E <DEF> per tolre la scuralea dels uylls pren lo such de l almoyll o la sua polvora, e posa la en los uylls, e sapies que t tolra la escuralea e dar t a bona vista e clara…” Receptari de la Universitat de València MS. n. 216, f. viij, b. Biblioteca Universitària de València <EX> E sapies be que si la rayll d ella menjes rostida, profita molt a la scuralea dels uylls. <END>
+
+<MOT> ESPAETXAR-SE <DEF> [v. refl. Anar-se’n ràpidament (d’un lloc). V. espatxar-se. “…e trames me cartes que donas a madona la regina sa mare e al senyor rey de Mallorques, e m feu saber que m pregava que tost me espaetxas de Sicilia.” Muntaner, Ramon Crònica (Muntaner) (ed. A. Bofarull, 1860) cap. CCLXVIII ESPECULADOR s. Aquell que observa els astres, els fenòmens celestes. “Los nombres dels cels segons la opinio dels especuladors fonch conegut per una raho demonstrativa per lo nombre dels moviments dels cossos superiors, los quals com manifestament sian nou, segueix se per necessitat que los cels corresponent son nou…” Granollachs, Bernat de Llunari f. sign. b iiij v ESPÚNDIA,[SPUNDIA]] <DEF> s. Veterinària. Sort d’úlcera cancerosa. <EX> Vos pendreu caragols e levar los heu de la closca e picar los heu be, e axi picats metreu los sobre la spundia e metreu hi sa bena dessus. E aço continuareu alguns dies, car de cert aço u guarra. <END>
+
+<MOT> ESQUIRA <DEF> ,[ASQUIRA, ASCUYRA] s. Quimera, malvolença insistent, animadversió. V. isquira. <EX> ab gran esquira, si molt se plany: -Sus! en mal guany si us sou cansat desnaturat no m se ab qui, pus no ab mi, be us ne guardau; …per la qual cosa, per lo desplaer que han e ira contra aquells, venen en conexença de lurs deffalliments e volen fer obres virtuoses, per ço que no sien semblants a aquells que han en esquira e en malvolença. <END>
+
+<MOT> ESTACA-ROSSÍ <DEF> ,6[ESTACA ROCI] s. Nom vulgar de l’Ononis spinosa, planta medicinal. <EX> Item lo vi de la decoccio d estaca roci, molt hi val. Item prenets de la erba que ha nom estacha rossi e picats la e en forma de emplaustra posats la la hon sera la dolor del puagros. <END>
+
+<MOT> ESTAROL <DEF> [s. Mesura de capacitat. “Item paga per faves, per estarol, qui es .jª. quartera de Malorches, j. s.” Lleuda de Pizans Arxiu de Perpinyà (22 de desembre de 1321) ESTIERS,[STIERS]] <DEF> adv. <END>
+
+<MOT> A <DEF> més, ultra això. V. emperesters, emperestirs, enestirs, esters, peresters, perestirs. “Car be n deu hom brocar Tostemps lo seu cavall, Que stiers lo cor li fayll De correr e va l pas, <END>
+
+<MOT> E <DEF> mantes vets atras Torna per gran falsia,” March, Pere L’arnès del cavaller 908 <END>
+
+<MOT> ESTÍVIA <DEF> ,[STIVIA] s. Malaltia del cavall, que torç el coll en sentit lateral per dislocació de la nuca. 6. El DA (s. v. estacar) inclou estaca-rossins, documentada a Montserrat, i la defineix, sense dirne l’espècie, com: <EX> herba que fa fils llargs o tories molt primes que s’escampen; la donen a menjar al bestiar Stivia es appelada .jª. una malautia que esdeven al col dell cavall, axi que de sa ni de la no pot lo coll baxar al menyar sino per entreposament, ne pot rost pendre de terra. <END>
+
+<MOT> ESTOMIR-SE <DEF> [v. refl. Commoure’s, trontollar. “En lo punt de la mort lo sol s escuray E si s feu la luna, e l temple s estomi;” Llull, Ramon Plant de Nostra Dona Santa Maria XXVI ESTORN,[STORN]] <DEF> s. Combat, batalla, assalt. <EX> O tu, traydor / be sabs que onze meses Hach a Tots Sants / qu enprenguem nostre storn Io m son armat / si be m suy mes entorn Ez asseiat / tant qu a mi no fall res. <END>
+
+<MOT> ESTRACAR <DEF> ,[STRACAR] v. a. Fatigar, cansar. <EX> O, desaventurat de mi! yo donant te moltes scuses, Deifira mia, axi te ensenyi quant ara sabs molt stracar me. <END>
+
+<MOT> ESTREMPAUC <DEF> , A adj. Extravagant; estràmpol. “Palp les memeles atressi, Strenga les li un poc, No molt, car no seria de joc, Que semblaria hom porquer <END>
+
+<MOT> ESTRONT <DEF> ,[STRONT] s. Excrement animal endurit i emmotllat a la forma del budell. <EX> Tres coses fan bon ort: cavar fort, stront mort e bon plantar de coll. <END>
+
+<MOT> ESTRUGAMENT <DEF> 8 s. Penediment. <EX> Maiorment com jo haya entes que les dites persones malvades s escampen per tota la terra. Aquestes persones, mon senyor, van meses a manera de gent de penitencia e d estrugament. <END>
+
+<MOT> EU <DEF> ÇÓ s. Gla, fruit de l’alzina. <EX> Item prenets euçons e molets lo e dats li n a beura ab bon vin a mati e a vespra: maravellosament li fara passar tota tos. <END>
+
+<MOT> GASANYATGE <DEF> ,[GASAYNATGE] s. Guany, profit; collita, profits agrícoles. <EX> …que aja de la vila de Thoyr I. reredeume en axi co es acostumat, al xvije de blatz, de rasims, d olives, de lana, e d aynels, e de gasaynatges… <END>
+
+<MOT> IVASSEA <DEF> ,[YVASSEA] s. Rapidesa, celeritat, promptitud. <EX> …car aquella ara es tant de poca quantitat e es tan ivassosa del temps passat a l esdevenidor, que lo nostre enteniment ni pot apercebre sa poca quantitat, ni li leu que pusca atenyer son curriment e sa yvassea. <END>
+
+<MOT> LATITANT <DEF> [adj. Que s’amaga, s’oculta, s’encobreix. “…que qualsevol que tinga taula de cambi e altres qualsevol mercaders qui seran abatuts, fugits, e absentats, e latitants…” Constitucions de Catalunya V, lib. IX, tit. X. De abatuts y latitants LATITANT,[LATITAN]] <DEF> adv. Amagadament, ocultament. <EX> …que alguns de les bandositats contra lo voler e manament del Senyor Rey e en menyspreu dels officials seus prenien atrivença e gosar de entrar e aturar en la ciutat, latitan o a pales… <END>
+
+<MOT> LIEN <DEF> [s. Manyoc. “E la lien de les sues celles era negre e encorbada com a bell arch.” Metge, Bernat Ovidi 24; MS. 831, Biblioteca de Catalunya Vocabulari_Lluis_Faraudo.indd 59 18/2/22 9:50 60 vocabulari de la llengua catalana medieval LLEGOLELLA,[LEGOLELA]] <DEF> s. Llengüeta, neulella o gargamelló. <EX> Contra paralis de lengua e legolela. <END>
+
+<MOT> MUILE <DEF> ,[MUYLE] s. Núvol, diverses taques blanques i opaques formades sobre la còrnia (nubes en els mss. llatins). V. cf. múmfula (Tortosa). <EX> El ssegon es que sia pus blanch e menor e .i. poc pus fon que l primer, e es en semblant de muyle en sa color. Ara direm del senyal, so es a saber, can son guarides les vexigues los senyals blancs que romanen en la tela de la cornia axi com havem dit, e son en .ij. maneres: que sia sotil en la visio de la cornia, e aço a nom muile; e sera gros e pregon en fons de la cornia e aço havia nom blancura. <END>
+
+<MOT> NOCURENY <DEF> , A adj. Que no té cura d’una cosa; indiferent, negligent. <EX> …que ladonchs lo Princep ratifique les malfeytures dels seus Officials, com la sua correccio es pereosa e nocurenya en los delictes. <END>
+
+<MOT> NUVORELLA <DEF> ,[NUVORELA] s. Núvol subtil. <EX> E respos Ihesu Xrist: -Tu o dius, empero encara veurets lo fill de l hom seura a la dreta part de Deu, e ll veurets venir ab les nuvoreles del cel. <END>
+
+<MOT> OLEIX <DEF> ,[OLEX] adv. Mateix. V. eleix, a, eleix, a (Per si ___), eneix, enleix (Per si ___), enleix, a, leix, a. <EX> Altra lavadura d asso olex: pren blanch de plom cuit .j. lliura, ensens, mastech… <END>
+
+<MOT> OLENDA <DEF> ,[OLENDE] adj. Olent, que fa bona olor. <EX> …sia fet al meu cors e a la mia bocha untage d elmesch, de sandols, de siveta destemprada ab aygua rosa e ab aygua nafa, per ço que alguna malla fetuytat de mon cos no isque, ans… git alguna flayra olende o dolsor. <END>
+
+<MOT> OPOPANAC <DEF> ,[OPPOPANAC] s. Opopònac, oleoresina amargant extreta de les arrels i la tija de la planta Opopanax. V. poponac, popanac. <EX> E, can es dat ab lo oppopanac e ab lo caparo a beure, trenque la pedra e trau la en la horina e solte la postema de l escle. <END>
+
+<MOT> OXIZACRA <DEF> [s. Mescla de vinagre i de sucre. V. occisagra, siagre. “…e ab oxizacra, los espacies saben que es, dats li n a beura…” Receptari de la Universitat de València f. cxij OZIMI s. Alfàbrega. “Encara mes que y aiustetz ab la galina aquestes coses que s seguexen qui conforten lo cor: macis, cubebes, antos, que es dit romer, ozimi que es alfavega…” Tresor de pobres (MS. 216 de la Biblioteca Universitària de València) cap. XVII PAMPINUM s. Pàmpol. Fulla del canó de les gramínies (els pàmpols són agres i astrigents i com a tals usats en medecina). “Si aura tynes, trenca pampinum & suc de mora agresta & d asso banya soven lo loc de les tynes que roen les penes.” Llibre del nodriment e de la cura dels ocells f. 111, c PARPELLOLA,14[PERPELLOLA]] <DEF> s. Mena de moneda menuda i de mala llei. V. cf. Botet i Sisó, t. II, p. 321. <EX> …vola, sola, musola, tovallola, perpellola… Item, pronunciam, declaram, ordenam e manam que les monedes d argent que s nomenen Parpalloles, e dobles, e corren en los dits comtats de Rossello e de Serdanya, passats quatre mesos continuament desiavant comptadors no puguen correr en los dits comtats ne un altra part alguna del dit Principat… <END>
+
+<MOT> PARTELITAT <DEF> [s. Naixença iŀlustre. 14. El DA sols n’esmenta la font: «Dic. J. March». Vocabulari_Lluis_Faraudo.indd 62 18/2/22 9:50 els mots 63 “Pensau esser de paratge O de gran partelitat, Mes mirau vos lo linatge De cavadors es honrat.” Cobla (Illa[Rosselló]] <DEF> , s. xv) <END>
+
+<MOT> PASTRUI <DEF> [s. Un cert peix de mar. “Item ordenaren que mussola, lunada, cassons, pastrui, se vena a sis diners la liura… VI d.” Crides de Mallorca XL PERHORROSCÈNCIA,[PERHORROSCENTIA]] <DEF> s. Temor horrífic; por horripilant. <EX> …que lo qui allegara oppressio o denegacio de justitia, o perhorroscentia contra los dessus dits officials preeminents… haja en scrits exprimir les causes de la oppressio, perhorroscentia o denegatio de justicia… <END>
+
+<MOT> PEROÏNA <DEF> ,[PEROYNE] s. Resina. <EX> Carga de peroyne… I. s. I. dr. <END>
+
+<MOT> SUNT <DEF> [s. Humor que decorre dels ulls. “Altra medicina a la vee meylor dels huils, e a les lagremes, e a la laguanya dels uyls, e a grossea, a a tolre la sunt dels uyls, e purgen les plages e apostema.” Tròtula de Mestre Johan 7 c TRUTXER,[TRUXÉS]] <DEF> s. Home astut, pràctic en malícies; experimentat, trapasser. “Que tots fills de cavallers Tots son truxés e ufaners, Plens d envege e malvestat Complits d erguyll e de pecat <END>
+
+<MOT> E <DEF> de tots mals ensenyaments;” Planys del cavaller Mataró 467 <END>
+
+<MOT> E <DEF> tots l als qui es a pinzel, coll tencar, Am. f. conf., p. 511. Car portats axi almell Que no y fall res pel coll trencar.” Planys del cavaller Mataró 500 <END>
+
+<MOT> ALMODROC <DEF> ,[ALMODROCH, ALMODROC m. ant. <END>
+
+<MOT> ALMADROCH <DEF>] s. Salsa d’oli, alls, formatge, mantega, rovells d’ous i brou de moltó. <EX> …e com sera fet de aquesta manera metras lo «Almodroch de alls y formatge: moretum: almoalmodroch axetat sobre les dites tallades… …e piqua ho tot ensemps tot en un morter ab oly rosat e ab aygua ros a manera qui fa almodroch… <END>
+
+<MOT> ALQUIMIAT <DEF> , ADA adj. ALQUIMIAT, -ADA adj. ant. Obrat d’alquimia. <EX> Item hun stoig de fusta en lo qual hi ha un got Hun stoig de fusta en lo qual hi ha hun got alalquimiat ab son cubertor. <END>
+
+<MOT> BERNATGE <DEF> [s. BERNATGE m. ant. Barreja, revolt, barrisc. “E ls corsos d els / davan manjar als cans, Els corsos d’els[sants]] <DEF> dauan maniar als cans | <END>
+
+<MOT> E <DEF> lo restant / anava tot bernatge.” E lo restant anaua tot bernatge, Anònim segle Anònim Cançoner de Saragossa f. 237 v XV (Canson. Univ. 251). <END>
+
+<MOT> BERNEI <DEF> ,19[BERNEY] s. BERNEY m. ant. Lloc d’exposició dels reus a la vergonya, com el costell i figuradament situació d’algú sotmès a la mofa pública. <EX> O tu traydor / be t est mes al berney Vituperat O tu traydor be test mes al berney | Vituperat e / e ab paucha vergonya… <END>
+
+<MOT> BOSSONALLA <DEF> 20 s. BOSSONALLA f. ant. Certa moneda de billó encunyada a Barcelona. V. bussana, cf. Botet i Sisó, t. II, p. 24, 32, 41. <EX> Aur e argent e moneda e tota bossonalla, per Aur e ergent e moneda e tuta bossonala, doc. lbr. mª. E es entes que les .c. lbrs de moneda sien ross., segle XIII (RLR, xxxi, 74) franques… <END>
+
+<MOT> BUGUIART <DEF> , ARDA adj. BUGUIART, -ARDA m. ant. (pres de l’italià bugiardo): Mentider, a. <EX> Visqui en Roma sota l bon August En temps dels Deus qu’eren fals e buguiarts, En temps dels Deus qu eren fals e buguiarts. <END>
+
+<MOT> BUSARI <DEF> ,[BUSSARI] s. BUSARI m. ant. Espècie de falcònid, ocell de rapinya inepte per a l’ensinistrament de la caça de vol. El Buteo vulgaris, Bechstein, és dit popularment a Catalunya aligany o aligot, i a València arpella. V. buac <EX> Aquest ffalco aytal[el falcó negre] se acosta molt Un aucell qui es apellat busari del qual auem a la fforma de un aucell qui es apellat bussari feta mensio, Flos medic. 136. del qual havem ffeta mensio damunt… <END>
+
+<MOT> CORENYÓS <DEF> , OSA adj. CORENYÓS, -OSA adj. ant. Que té en cor, en voluntat. <EX> Mas les gents de Arago qui eren en aquelles parts Les gents de Aragó… eren tant corenyosos de prop dels Francesos eren tant corenyosos de fer fer mal als francesos, Desclot Cròn., c. 107. mal als Francesos, que no volgueren tenre lo manament del rey, ans los corregueren tro a les tendes… <END>
+
+<MOT> COTADA <DEF> 21 s. 2. COTADA f. ant. Folradura. <EX> Item una cotada de pell de conil al senyor bis- Per dos parells de marts que aquell maté en les be, per ______ .ix. sous. <END>
+
+<MOT> INPRIMIA <DEF> [s. IMPRIMIA f. ant. Preeminència, primacia. de significat desconegut, i tal vegada de forma equivocada per error de còpia. “…yo fui tots temps de oppinio que… no s Vagen a la sepultura del confrare… ab I ciri de degues axi stretament rahonar de la inprimia de miya libre de cera creman e que diga C vegades la intencio de les coses dites entre nosaltres…” la oració del pater noster per ànima del confraDecameron jornª 10ª novª 6ª re daffunt o de la confraressa deffuncta et açò faça com avinent li serà; e altra imprimia no li sia feta, doc. a. 1329 (Col. Bof. xl, 84). LLEGAT,30[LEGAT]] <DEF> s. 2. LLEGAT m. Ambaixador del Papa. V. legat. <EX> …lo Cardenal de Pisa deu passar per la vila Per un llegat del Papa qui era archebisbe, Munnostra de Perpenya per anar a Vos, senyor, axi taner Cròn., c. 198. com a legat del papa creat a Constança. E dubtam, senyor, com nos haurem devers lo dit legat quant sia açi, ço es, si li farem aquella reverencia que s deu fer a legat de vertader papa, o no. <END>
+
+<MOT> MARQUESAT <DEF> , ADA31 adj. 2. MARQUESAT, -ADA adj. ant. Ornat de marqueteria. V. marquejat. <EX> Item hun pom de fust marquesat ab son anell Hun pom de fust marquesat, doc. segle XV (Col. d or, cordo d or e de seda. <END>
+
+<MOT> MORDRET <DEF> [s. MORDRET adj. ant. Matador, assassí. V. murtrer. “No n has gosat / deffendre ton leig crim No’n has gosat deffendre ton leig crim | tu est Tu est mordret / e semblant de Cahim,” mordret e semblant de Cahim | ple de viltats, Erill, Arnau d’ Cançoner de Saragossa f. 231 Arnau d’Erill (Cançon. Univ. 242). PEIRUSSA,[PEYRUSSA]] <DEF> s. PEIRUSSA f. ant. Matèria tintòria. <EX> Item que negu teyneyre qui tenga de peyrussa Cascuna mercaderia exceptada peyrussa e pella escarlatats ni rosses, no gaus maestregar neguns e borra, Leuda Puigc. 1288, p. 503. draps ab senra ni ab caus. legado, embajador <END>
+
+<MOT> RONSERA <DEF> ,[RONCERA] s. RONSERA f. ant. Lenta, mandrosa. <EX> Dix la roncera Roncera, peix: Pagurus, Torra Dicc. de la tornera: -Volenter pica en casa rica, <END>
+
+<MOT> SABISELAR <DEF> [s. SABISELAR m. ant. Sacerdot musulmà. “…que per neguna via del mon no ls lexen pujar Que per neguna via del món no’ls lexen[als alt en lurs mesquites los lurs sabiselars ne alfa- sarraïns]] <DEF> pujar alt en lurs mesquites los lurs quins o sacerdots a cridar laors ne altres reve- sabiselars ne alfaquins o sacerdots a cridar laors rencies a fer a aquest fill de peccat… Mahomet…” ne altres reverències fer a aquest fill de peccat… Eiximenis, Francesc Primer del Crestià cap. 103 Mahomet, Eximenis Primer del Crestià, c. 103 (ap. Aguiló Dicc.). <END>
+
+<MOT> SORGUAROL <DEF> 32 s. SORGUAROL m. ant. Ratolí, petit talp. <EX> Item si l esperver es magre o malaut dona li Si l’esparuer és magre o malaut, dóna-li sorguasorguarol a meniar e garrà. <END>
+
+<MOT> SUATGE <DEF> [s. SUATGE m. ant. Motllura o bossell enrotllat al peu de les peces d’orfebreria. “Item una copa ab sobrecop e peu d argent, Una copa ab sobrecop e peu d’argent…, e lo cudaurada dins e de fora… e lo cubertor, ço es la bertor, ço és la orla, ha un suatge doble, Inv. orla, ha .j. suatge doble, e de sobra una via de Anfós V, 151. Un pitxer d’argen daurat, ab lo peu reparadura ab fulles, ab .j. pinyo de vidra blau.” levadiç e baix al sòl del peu un suatge e corona, Inventari d’Alfons el Magnànim 8; anys 1412- ibid. 171. En lo dit sobrecop ha un suatge fet a 1424 manera de corona, ab una via reparada al mig del dit sobrecop, ibid. 171. En cascun costat ha un scut a les dites armes ab suatges de entallament ubert, ibid. 174. Un pitxer d’argent blanch, exceptat los suatgers[sic]] <DEF> qui són deurats, ibid. 155. <END>
+
+<MOT> VAIRESCUT <DEF> ,33[VAYRESCUT] s. VAIRESCUT m. ant. Espècie de tarja per a parar bots de llança en torneigs i justes. V. cf. Puiggarí, p. 360, 239. 32. El DA en recull l’exemple, però no en fa la definició. 33. El DA (s. v. vayrescut) en reprodueix el segon exemple, però no en fa la definició. Vocabulari_Lluis_Faraudo.indd 79 18/2/22 9:50 80 vocabulari de la llen <EX> …lo arnes sens guarda neguna, ni tarja, ni scut, Una roda e gocet et broquet e l vayrescut, un ne vayrescut… …un nostre arnes de junyer… es assaber: elm, escut… e una roda, e gocet, e broquet, e .i. vayrescut… <END>
+
+<MOT> VIDAURA <DEF> 34 s. 2. VIDAURA (o bidaura). f. ant. Clamatis vitalba, planta enfiladissa de virtuts medicinals, i ornaments que n’afecten la forma. <EX> …e per pintar les dites vidaures ab cost d aur Bull e man que hun drap d’or que yo tinch sia fi, argent, sisa d oli e altres coses… Item dues cortines de seda de fulatges diversos d’Ausiàs March, a. 1458 (Rom. xvii, 191). Quatre ab vidaures vermelles sense senyals e servexen a draps de or… Lo quart és blanquinós ab fulatges; l altar maior a les festes anyals. <END>
+
+<MOT> ADRAMENT <DEF> [s. Pols astringent, sal àcida de les agalles negroses (Cynips gallae tinctoriae). “Si l esperver a tinyes, ho per alguns es apellat fformiga, unta l ab mel, puys gite y polvora de adrament, escorxa de ffrexe e polvora d exens…” Flors de les receptes medecinals per ocells de caça cap. vj 34. El DA (s. v. vidaura) en reprodueix el tercer exemple, però no en fa la definició. Vocabulari_Lluis_Faraudo.indd 80 18/2/22 9:50 els mots 81 AFERRADOR,[AFFERADOR]] <DEF> s. Fermall. <EX> …exceptatz los botons, e ls taxels, e ls afferadors, que pugen esser daurats… <END>
+
+<MOT> BUAC <DEF> ,[BUACH] s. Ocell de presa falcònid, inepte, a causa de la seva timidesa, per a ser dressat a la gran caça de vol. És el Falco subbuteo subbuteo, L. L’adj. buac, reg. al Diccionari Martí Gadea amb la significació de dèbil o malaltís, correspon al significat metonímic i familiar de nici o ximple de l’ant. franc. busart i mod. buse, i del prov. buzo <EX> Apres viu venir de passa un buach donant ferides, sobre l vent muntant en alt tras la coloma a gran cassa, ab les ales esquetides de plomes de girifalt; <END>
+
+<MOT> CAMELL <DEF> ,[CAMEYL] s. Marítim. Nom d’un cordatge o cable gruixut. <EX> Item, dos timons ab lurs algals. Item, quatuor ab cameyls als timons. Sent Climent <END>
+
+<MOT> COSTER <DEF> [s. Vas i mesura vinària. “Item un coster.” Inventari d’Almenar Any 1499 Vocabulari_Lluis_Faraudo.indd 83 18/2/22 9:50 84 vocabulari de la llengua catalana medieval CRASSA,[CRAÇA]] <DEF> s. Escòria o escuma dels metalls o d’altres matèries en fusió, i en general tota sutzura o impuresa. <EX> …mas tota via la deuen vendre e liurar que sia sola pegunta sens costeres de terra ni de cendra, ne d altra mescla, ne craça;… <END>
+
+<MOT> EIXELL <DEF> ,[EXELL] s. Exili, desterrament. <EX> …hageu aturar en la dita vila en tota defensio e ajuda de aquella, sots pena de cors e de haver, e de exell de XX anys lavos primers vinents… <END>
+
+<MOT> EIXERNIR <DEF> ,[EXERNIR] v. a. Desguarnir, evacuar. Vocabulari_Lluis_Faraudo.indd 85 18/2/22 9:50 86 vocabulari de la llengua catalana medieval “Com ja fos donchs / la ciutat exernida De grechs, juheus / e llatins cristians, <END>
+
+<MOT> E <DEF> d estrangers / qu y eren stadants…” Anònim Cançoner de Saragossa f. 237 <END>
+
+<MOT> EIXIDA <DEF> ,[EXIDA] s. Celobert. <EX> E per lo semblant som de acort de pendra de la exida d en Granell tant pati com mester sera… …e ab ço que fon pagat an Domingo Tamarit e an Johan Granell… per lo dan que avien reebut en les exides de lurs alberchs… <END>
+
+<MOT> EMPLOMBADURA <DEF> ,[AMPLOMBADURA] s. Reunió dels extrems de dues cordes introduint els cordons destorçats de l’un dins els de l’altre, que són restats torçats. <EX> Item .v. gumenes la una ab dues amplombadures, altre ab una amplombadura al cap. <END>
+
+<MOT> EMPRE <DEF> 38 s. Préstec, manlleu. <EX> E per aquesta raho lo dit senyor hage de necessari .xxx.m florins d or, e aquells a present no pusque haver pus promptament que per credit e empre de la Ciutat… <END>
+
+<MOT> ENTULLADÍS <DEF> , ISSA adj. Baldat, nafrat. <EX> bones o males, si malaltices, entulladices, <END>
+
+<MOT> ESCALMADURA <DEF> ,[SCALMADURA] s. Malaltia intestinal, defecació de matèries blanques amb amagriment del cavall que n’està afectat. <EX> Scalmadura es malautia desecan les coses dintre el cors dell cavall, e amagrex lo cors e fa pudrir la femda dell cavall axi com dell home. <END>
+
+<MOT> ESCÀTIL <DEF> ,[SCATIL] adj. Bastat, proveït d’aliments. <EX> Ay mesquina! e la terra de Ulixes qui es una ylla scatil e infectuosa, inclusa, tancada e incercuyda de mars tempestuoses. <END>
+
+<MOT> ESCLAVÍ <DEF> [s. Magistrat adjunt del burgmestre a Flandes. “En Flandes es una manera de spatxar causes la qual es fort spatxada e no y cal molts juristes, e es aquesta: Si algu proposara sa causa davant los jurats de la ciutat, que ells apellen esclavins, aquests hi assignen dos homens qui dins temps cert hagen determenada la causa e comparen aquells al dia assignat.” Eiximenis, Francesc Regiment de la cosa pública cap. XXVIII ESCOLOPENDRA,[SCOLOPENDRIA]] <DEF> s. Herba melsera, planta filicínia medicinal. <EX> Item sie feyt aital exarop: Reebet fuylles de bretonega, capilli veneris, scolopendria, de la migana escorça del sauch, de cascu egualment una menada… <END>
+
+<MOT> ESCOTXINAR <DEF> ,45[ESCUTXINAR] v. n. Cantar (la perdiu). <EX> Item, que en negun temps de l any negu de qualsevol condicio sie no gos caçar les perdius, francolins, ne faysans, ne aquelles pendre ab reclam, o escutxinant, ne ab perdiu o ab perdigot… <END>
+
+<MOT> ESPASA <DEF> [s. Barra (terme de marina). V. cf. Jal, Gloss. Naut. a Taraçana. “Item, hun rem ab pala, bo, e l espasa del ponto petit e l arbre e hun tros de antena del dit ponto.” Inventari Drassana de Barcelona Any 1484 ESPATA,[ESPATHA]] <DEF> s. Rem que serveix de timó (terme de marina). <EX> Item, una espatha de barcha. Sent Climent <END>
+
+<MOT> ESPÀTULA <DEF> ,[SPATULA] s. Iris fètid, terme de botànica. <EX> E la spatula put e no ha flor neguna, e jau de prop los orts, e molts la posen sobre les parets. <END>
+
+<MOT> ESPELLICAR <DEF> [v. a. Espellar, espelletar, llevar les peŀlícules o pelletes. “…abans que no posava la carn a coure aquella espellicava e de aquella levava lo greix e apres la posava en sal en una posteta…” Carbonell, Pere Miquel Sentència del procés de la Inquisició de Barcelona Docs. Arxiu de la Corona d’Aragó, v. 28, p. 96. Any 1496 ESPIDAR-SE v. refl. Expedir-se, deseixir-se, desprendre’s de la deguda obediència. “…e parla ab don Pero Ferrandez que l emparas en la guerra e que s espidaria de nos…” Rei Jaume I Crònica (Rei Jaume I) (ed. Aguiló, 1873) 15 ESPINEL·LA,[SPINELLA]] <DEF> s. Malaltia del cavall. <EX> Spinella es malautia vinent al caval sots los garres prop les iunctures dels orsos d aquest garret; vinen en la .j. ho n l altre costat sobre l os, grossa a manera de velana, a vegades menor, a vegades maior, que estant destrey aquell junctura que ll caval s i dol moltes veus per forsa… <END>
+
+<MOT> ESPLEC <DEF> ,[SPLECH] s. Fi, darreria, terminació, acabament. <EX> …scrit es per Isaies en lo splech del libre, sentenciant per nostre Senyor… <END>
+
+<MOT> ESPLUGABOU <DEF> 46 s. Home grosser, tosc, estúpid (L’esplugabou és una mena de moixó (Botaurus stellaris) suposat esplugador o espuçador dels bous, d’on li ve el nom). <EX> ¿Tenim hostal de llits fornit? Digau, marit: cinch cavalcans orats, gualans esplugabous, ¿per quins cinch sous los acolliu? mololontha vulgaris, chorlito o saltón <END>
+
+<MOT> ESPONDIA <DEF> [s. Les vèrtebres del coll. “Tots los nervis fan sentiment Tambe les venes, Se esquexen les entramenes Dins en lo cos, Arteries, espondia e os Tot se desfa:” Venturós pelegrí ESPONSA47 s. Esponja. “Item, dues esponses.” Capmany, Antoni de (editor) Armament de la coca “Sent Climent” Coŀlecció diplomàtica CCLXXX ESQUILLA s. Espècie de cranc de mar semblant a la gamba. “Mas aqueles qui sson de les viandes que crexen molt en l esperme sson les coses qui governen ab ventositat ensemble… axi com la esquilla, e çiurons, e faves, e lagostins, e pinyons.” Ibn Wāfid, Llibre de les medicines particulars f. 11, b ESTALÓ,48[ESTALLO, STALLO]] <DEF> s. Cavall no castrat especialment destinat a la reproducció. <EX> Lo cavall deu esser engendrat de guarro o estallo que sia bo e de bon pell, que no haia malalties naturals en les cames ne en les mans o peus, que sia de bella talla e sens nigun mal vici. Lo guarra o stallo deu esser ben guardat que no sia cascat ne sovin cavalcat, ne vaia derrera les eguos ne les veia sino al temps del cavalcar, e que no sia magra ne massa gras ne massa vell. <END>
+
+<MOT> ESTANFORT <DEF> ,[STANFORT] s. Roba luxosa procedent d’Arràs. V. cf. Puiggarí, p. 68, estam fort. <EX> Item ordenam e establim que negun escuder no vesta sino biffa de Sentenis o estanfort d Arraz o d altre drap d aquela valor o de meyns. esponja (?) <END>
+
+<MOT> ESTERCORAR <DEF> 49 v. n. Defecar. <EX> Item una cadira o bancha foradada per estercorar. <END>
+
+<MOT> ESTERNAR-SE <DEF> ,[STERNARSE] v. refl. Escampar-se, estendre’s. <EX> E la paraula de Jesus se sterna mes avant, per la qual cosa moltes companyes se acostaven a ell per ço que l hoissen e que fossen curats de lurs malalties. <END>
+
+<MOT> ESTIL <DEF> ·LAT,[ESTILLAT] s. Extracte de carn preparat per ebullició i concentració del seu brou. <EX> De estillat. Una gallina pendras e fer la[has] neta e talla la a troços de manera que los troços puguen passar per un coll de ampolla… <END>
+
+<MOT> ESTIPÈNCIA <DEF> ,[STIPENCIA] s. Allò que és necessari per al manteniment d’una persona. <EX> …los altres, en vida, o tantost apres mort lur, ells e lurs cases son vengudes al bax, hoc e a total destruccio, que a fills o a hereus lurs no roman stipencia. <END>
+
+<MOT> ESTOMACAT <DEF> , ADA50 adj. Despistat, irritat, fastiguejat. <EX> E aço, mossenyors, yo los e dit per dar los alguna color, car realment ells se n mostren molt stomachats de esser axi mesos en oblit… (Rosselló): rendit, afadigat <END>
+
+<MOT> ESTOPA <DEF> 51 s. Nàutica. L’eixàrcia vella desfilada que serveix per a carenar. <EX> Item cremat estopes de les naus veylles e posat la cendra d aqueles sobre les emorroydes e seran guarides. <END>
+
+<MOT> ESTRALLA <DEF> ,52[ESTRAYLA] s. Marítim. Estrall o estai i per extensió la vela que sobre d’aquell es desplega a tota la seva llargària. <EX> Item, pessa de drap d estrayles qui ha de lonch set passes. Sent Climent <END>
+
+<MOT> EVERS <DEF> , A adj. Capgirat, ada. <EX> A, Troya molt noble, qui tantes dures ruynes deus soferir, e tan malament deus esser eversa e endarrochada! <END>
+
+<MOT> FESA <DEF> ,[FFESA] s. Ficció, simulacre, fingiment. <EX> Remey de dol es en hom savi la ffesa de menar dol. <END>
+
+<MOT> FESTAQUÍ <DEF> , INA54 adj. De color verd clar. <EX> Draps de colors senyalats ordenaren los antichs que portassen vestits los cavallers mentre que fossen jovens, axi com vermels, festaquins verts o blaus, per ço que les belles colors los donassen plaer et alegria… Item iij. alnes e mija de taffeta festaqui, ab listes d or a obs de forrar les dites mantellines, e costaren del dit draper a raho de viij solidos l alna, xxviij solidos jaccenses. <END>
+
+<MOT> GLEA <DEF> [s. Galera. “…com vosaltres e lo consell de aquexa ciutat feu armar una glea per beneffici de la mercaderia e deffencio de la costa…” Correspondència de Perpinyà = Correspondance de la ville de Perpignan (RLR, 48-70) XLIV Vocabulari_Lluis_Faraudo.indd 98 18/2/22 9:50 els mots 99 GOLETA55 s. El menjar (irònic). “Mas veig n i de fort mal nodrits De la goleta; D on molta casa n veig desfeta, E se n desfan, Car tot ço que ganyat hauran Entre semana En lo digmenga ab gran ufana S o mengau tot;” Sermó del bisbetó 507 GOLFÍ56 s. Aventurer, lladre d’una milícia irregular a semblança dels almogàvers. “E aquelles altres gents que hom apella Golfins son castellans e salagons, e gents de profunda Spanya, e son la major partida de paratge.” Desclot, Bernat Crònica (Desclot) (ed. Coroleu, 1885) cap. LXXIX GROP,57[GORP]] <DEF> s. Conjunt formant un tot distint d’objectes de la mateixa espècie. <EX> Gorp de veyre, paga… iiij. anaps. Grop de vidre, donet .ij enaps. <END>
+
+<MOT> LAVAMENT <DEF> [s. Decocció o preparació medicinal qualsevol per a rentar nafres, plagues, bues. “Recepta per a fer hun lavament per a matar lo cancer e tota mala plagua.” Micer Johan Receptari de Micer Johan XLVI “Recepta per a fer un lavament bo per a la boqua.” Micer Johan Receptari de Micer Johan XLVII LLIÇONARI,59[LIÇONARI]] <DEF> s. Llibre de cor que conté les lliçons de matines. <EX> E la historia d aquests benaventurats sancts martyrs se n troba recitada en un liçonari de gran antiquitat que es al cor de la sancta Seu de Vich… <END>
+
+<MOT> LLOP <DEF> ,60[LORP] s. Vela tenyida o pintada de negre, així dita perquè, ocultant-se com fa el llop en sa marxa, permet navegar en ple dia sense ser vist pels enemics. V. llorp, vela. <EX> Item, hun lorp de .xxxviij. vessos, per la dita galea de sant Carles. legendario, llibre de llegendes <END>
+
+<MOT> MA <DEF> ÇAM61 s. Quantitat, provisió de maços de diversos objectes. <EX> Item, maçam d erba ................................... Item, molt maçam de ferre en la ferrera. ................................... Item, molt maçam de cercols de roure o de avallaner… Sent Climent <END>
+
+<MOT> ÒRRIU <DEF> ,[ORRI] s. Marítim. Orri, corda que relliga una àncora a una boia o senyal i que serveix també per ajudar a llevar l’àncora. <EX> Item que tot marinera o ballester o altre acordat qui tay orri de nau o de leny qui vaja en terra sens volentat del patro o de son lochtinent, que sia penjat per la gola… <END>
+
+<MOT> PASCOR <DEF> ,66[PASCHOR] s. Primavera. <EX> Perque yo us prech que us esperets tro al pascor, e aparellare galeres e naus… E sobre aço estigueren aqui tant tro que vench lo pascor. <END>
+
+<MOT> E <DEF> formatge torrador, <END>
+
+<MOT> E <DEF> [vi rosat en paschor E giroflat can iverna.” Jaufré de Foixà MS. n. 309. Biblioteca de Catalunya 4 PILLARD,67[PILLART]] <DEF> s. Mosso d’esquadra; home d’armes. <EX> …partiren los CXXX baçinets e CXXX pillarts que la Ciutat preferí al Senyor Rey per remçó de les hosts qui anaren en lo vescomtat de Castellbo. …havem delliberat haver CC rocins de francesos, entre los quals hage LXXX homens d armes: los altres sien pillarts sens archers. <END>
+
+<MOT> PRESONIA <DEF> 68 s. Ofici de carceller. <EX> Ordenam que lo salari dels carcellers o aquella cosa que s deu donar per guarda de carcer o presonia… <END>
+
+<MOT> REBOSTER <DEF> 69 s. Tresorer. <EX> Manans e fermament stablens a Seyors, a maydomens, a rebosters, a merins, a justicies,… e a tosts altres sotsmeses nostres e officials… que aquesta carta… bona e ferma ayen e observen… <END>
+
+<MOT> REPELÓ <DEF> 70 s. Sofrenada, repulsa. <EX> …donant li açots, repelons e bufets, escupint lo, obrint li las venas ab ganivets… Lo Rey companyo seu, per no haver altre repelo, dona dels genolls en la dura terra e besa li la ma e lo peu, e aquell fon segur de tot mal. <END>
+
+<MOT> RESUMPTIU <DEF> , IVA adj. Propi a restablir (un malalt), a retornar les forces. <EX> Si effimera sie per gran trebayll o ab gran flaquea, deu esser nodrit ab coses resumtives lo malalt. 1, encarcelamiento <END>
+
+<MOT> SALMA <DEF> 73 s. Despulla mortal. “…-Bandeza e loçania, Quanta esser pot en Angel e en alma, Tota es en ell, e tal volem que sia: Perque ell es cell qui aporta la palma <END>
+
+<MOT> A M <DEF> aria ius, quand lo fill de Deu Carregar se volch de la nostra salma.” Febrer, Andreu Comèdia de Dant Paradís, cap. XXXII, 109 <END>
+
+<MOT> SALPICAR <DEF> 74 v. a. Polvorejar de sal i per extensió de qualsevol altra substància polvoritzada. <EX> …prenets mirra que sia molta e salpicats la n; tantost sera axuta. 1, una mesura antiga, mesura de capacitat de les naus, cada salma tenia sis fanegues, o sia 7 ½ salmes eren equivalents a una tonelada (E. Toda) <END>
+
+<MOT> SALPICÓ <DEF> 75 s. Plat fred de carn picada i amanida amb pebre, sal, vinagre i ceba. “Mas dau li lo lart / ab oli d olives <END>
+
+<MOT> Y <DEF> ab sal, poch a poch / y ab bona saho, Hi no us guastara / un pel les genives, Si de la salmorra / li feu salpico.” Fenollar, Bernat Procés de les olives 1.321 <END>
+
+<MOT> SALTIGAR <DEF> [v. n. Bellugar, remenar, treure els ulls de les òrbites. “Lavors veuras cant aquests grassos son plens que buffen e suen e no troben loch; les orelles lurs fumen, e ls canten, e ls siulen, los huyls los saltiguen e ls lampeguen…” Eiximenis, Francesc Terç del Crestià cap. CCCVII SAUNARIA s. Salineria; ofici i comerç del saliner; carrer dels saliners. “E quan aquests se n foren anats vengren aquels de la saunaria e porferiren nos los cosses e lur haver, e tot ço que els havien…” Rei Jaume I Crònica (Rei Jaume I) (ed. Aguiló, 1873) 302 SORC,[SORCH]] <DEF> adj. Sorgit, cosit. <EX> Item quatre cestons o bauts nomenats, cuberts de cuyro negre ab ses tancadures e correigs sorchs, on se metien los arnesos francesos de junyer. <END>
+
+<MOT> SORN <DEF> , A adj. Obscur, ombrívol. <EX> E guarda temps et vegada Ab que paraula es ornada, Ço s diu al temps qui s cove Car ab ell sorn es mante El loch on tu parlaras; <END>
+
+<MOT> SUFUMADURA <DEF> 76 s. Perfum. <EX> Quant lo marit fo entrat en la cambra senti les pus precioses odors que esser poguessen, e dix: -Dona, d on havets haudes tan precioses e ten bones sufumadures, que semblant m es que estigue en paradis? -E la dona ab gran paor acosta s al lit e vee que l mesell no y era mas senti les millors odors e sufumadures que james hagues vist. <END>
+
+<MOT> TURCOPLE <DEF> [s. Tropa de cavalleria lleugera dels turcs, sovint al servei de prínceps cristians. “E tantost van nos posar setge davant e vench nos tanta de gent sobre nos que foren be XIV milia homens de cavall, entre turcoples e alans e grechs, e be XXX milia homens d a peu.” Muntaner, Ramon Crònica (Muntaner) (ed. A. Bofarull, 1860) cap. CCXV “E els turchs e els turcoples avallaren tuyt, e volien me besar la ma, e començaren a plorar de goig pensant que yo volgues romandre ab ells.” Muntaner, Ramon Crònica (Muntaner) (ed. A. Bofarull, 1860) cap. CCXXXVI ULLÓ,[UYLÓ]] <DEF> s. Mena d’herba. <EX> De Uyló. Uyló es erba qi neix entre les messes e es aytal la sua vertut que, si es picada ab rava e ab una pocha de sal, mata lo canser e sana les plagues, e guareix sarna e cura la lepra. <END>
+
+<MOT> VA <DEF> [s. Cadascuna de les quatre plomes amples després dels coltells de l’ala dels ocells. “E, com comensara a gitar los vans, mulla un poch la carn en la dita aygua.” Flors de les receptes medecinals per ocells de caça cap. xxij VADILLA s. Toisó, tonedís, manyoc de pèl. “E sapiats que lavors ell pres Jason, demostrant li gran amistat, e dix li com en la illa de Colcos havia un molto qui havia la vadilla d or, e si ell lo podia conquerir que li seria gran ranom e gran fama…” MS. 352, f. 146. Biblioteca de Catalunya 79. El DA (s. v. tiritayna) reprodueix la citació i en dona la definició següent: «una mena de roba». Vocabulari_Lluis_Faraudo.indd 109 18/2/22 9:50 110 vocabulari de la llengua catalana medieval VICIADURA,80[VECIADURA]] <DEF> s. Llaminadura, llepolia. <EX> E a la fi del menjar hajats los fruyta secca, o olives, o altres veciadures. <END>
+
+<MOT> VINYÒGOL <DEF> ,[VINYOGUOL] s. Home de mala vida. V. vinyòguell. <EX> Empero en los dits capitols no sien entesos pastors qui guarden bestiar,… ni troter, ni bords qui haien de XV anys en jus, ni nagun catiu qui maioral ni vinyoguol sia. …son dolents e malastruchs de cap a peus, en tant que mills aparen bandes e vinyogols e goliarts, o sollarts o gent de forca, que no ciutadans de Roma. <END>
+
+<MOT> VINYÒGUELL <DEF> 81 s. Home de mala vida (no pas home que guarda la vinya…). <EX> …e ara per la major part son tots dolents de cap a peus e axi malestruchs que mils apparen banders o vinyoguells o goliarts o gent de forca que no ciutadans de Roma… <END>
+
+<MOT> VIRINÓS <DEF> , OSA adj. Viril, baronívol. <EX> Pregants vos, Senyora e molt cara sor, que vullats ab paciencia virinosa pendre la dita mort, attenent que axi es estat per nostre Senyor Deus ordonat… <END>
+
+<MOT> VULPÍ <DEF> , INA adj. Astuciós, enganyós. <EX> …ans encara hi ha .Iª. altra specia de malicia, que s appella iniqua astucia e versucia vulpina… …vendra a gran confusio: car no l regeix la prudencia, qui es mesclada ab temor de Deu, mas aquella qui s appella terrenal e vulpina, que engana e confon tots aquells qui la seguexen e qui ab ella fan sos affers. <END>
+
+<MOT> V <DEF> palms de lenç que d aquell compri, per encolar la dita aygua cuyta e çafra…” Sotsobreria de Murs e Valls de València n. 38 d3; abril de 1433 Vocabulari_Lluis_Faraudo.indd 113 18/2/22 9:50 114 vocabulari de la llengua catalana medieval Vocabulari de Faraudo DCVB <EX> Item, a n Berenguer de Lorenz, e per ell a n G. de Solana, brunater de Leyda, procurador seu, a compliment de .cccc.xx. solidos barchinonenses li eren deguts… <END>
+
+<MOT> CABIVA <DEF> ,[CABINA] adj. CABINA f. ant. Capviva, capital, capçalera, majúscula cabdal, Caplletra? aplicat a la lletra inicial d’un escrit. V. capviva. <EX> item un altre libre scrit en pregamins, apellat Lo qual libre comensa: Tande felix, ab gran caBiblia, molt bella, tota capletrada d aur, de letra bina, ab ymagens, ab dos gaffets, doc. a. 1429 bulonyesa; en la primera letra sive cabina del (Roca Hosp. 107). prohemi era un sent Geronim, ab un caparo… <END>
+
+<MOT> CAVIARI <DEF> [s. CAVIARI m. ant. Conserva d’ous de peix, especialment d’esturió, Casta de vi? salats i secats. “Item, un odre de caviari.” Un odre de caviari, doc. a. 1331 (Capmany Capmany, Antoni de (editor) Armament de la coca Mem. ii, 412). “Sent Climent” Coŀlecció diplomàtica CCLXXX CEMENSAL,[CEMASAL]] <DEF> adj. CEMENSAL (escrit també cemasal). adj. ant. Que val a sembrar; semental. De llavor (?). <EX> Bn. Suger… fa una pugera d ordi cemasal. Dñ Suger… fa una pugera d’ordi cemasal. G. G. Des Prat fa miga pugera d’ordi cemensal. <END>
+
+<MOT> CIELLAT <DEF> , ADA adj. CIELLAT, -ADA adj. ant. Cisellat, ada. Cisellat? <EX> Item un euvangestiler ab cubertes d argent Dos bacins de dar ayguamans d’argent…, ab una daurades e çielades… Primerament dos bacins de dar aygua a mans d argent, daurats dins e deffora, ab un gran esmalt en lo mig ab les armes reals e ab .vj. esmalts petits ab armes reals per la orla, ab una serment de fulles ciellades… <END>
+
+<MOT> COGUILLA <DEF> [s. COGUILLA f. ant. Conquilla, closca, copoll. Clovella? “…e apres sie feyt gargarisme ab aigua e ab vi- Ab balaustia ço es flor de malgrane, e ab les nagre e ab balaustia, ço es flor de malgrane e ab coguilles de glans, Tres. pobr. 30. les coguilles de glans e ab semblantz coses.” Tresor de pobres (MS. 216 de la Bibl. Univ. de València) cap. XIII COMEDIAT, ADA adj. COMEDIAT, -ADA adj. ant. Partit per la meitat, migpartit. Fet a manera de comèdia? “la forga sua, / stil e balanç / sera n romaç: / Noves rimades | comediades | aphorismals, Spill noves rimades, / comediades,” 682. Roig, Jaume Spill 678 CONC,[CONCH]] <DEF> s. CONC m. Depressió del terreny en forma de conca. 2. ant. Depressió del terreny, a manera de coma? <EX> …del terme que es a XX. canes de Montpeller Sobre un gra quer que ha en lo conch de Vingrau sobre I. gran quer que ha en lo conch de Vingrau ribe lo cami rial, doc. a. 1306 (RLR, vii, 50). riba lo cami rial a part de jos… <END>
+
+<MOT> ENCOMBRIR <DEF> [v. a. ENCOMBRIR v. tr. ant. Encombrar, ocupar, utilitzar. Ocupar? Emprar? “E incontinent hagueren nos dides, e alletaren Incontinent hagueren-nos dides, e alletaren-nos; nos, axi que, en menys de un any, nos encom- axí que en menys de un any Nos encombrírem brirem set dides.” set dides, Pere IV, Cròn. 58. Rei Pere del Punyalet Crònica (Rei Pere del Punyalet) (ed. Coroleu, 1885) lib. I, cap. xxxvij Vocabulari_Lluis_Faraudo.indd 118 18/2/22 9:50 els mots 119 Vocabulari de Faraudo DCVB ESCANTIR,86[SCANTIR]] <DEF> v. a. ESCANTIR v. tr. ant. Extingir, apagar. Apagar, consumir? <EX> E quant me agueren gitat al foc, e tantost com Tantost fuy guarit e lo foc scantit que no hy yo nomenas lo nom de Jhesu Crist, tantost fuy restà una sola beluga, Purgatori de St. Patrici, guarit e lo foc scantit que no hy resta una sola 154 (ap. Aguiló Dicc.). beluga. <END>
+
+<MOT> ESCOFA <DEF> ,[SCOFFA, ESCOFFA, SCOFA] s. ESCOFA f. ant. Folradura de l’interior de l’elm, bacinet. Part del bacinet? V. cofa, còfia, cofra. <EX> Al capmayl per rietat / E per mays fortalea, / Se Dos elms de beanya… los quals vengueren de tany que sia mesa / Una scoffa dejus, / Es un Paris, ab lur scofas, Inv. Anfós V, 161. (És posautre dessus, / Per que s tinga pus clar / La dejus sible que lur scofas sia una errada per lurs cofas).87 deu star …………………………… …………………………… Lo capmayl, qui be l mira, / Es trop bell de portar, / Mas vullats vos n armar / Ab l escoffa doblada. Item dos elms de bea <END>
+
+<MOT> ESCOFAT <DEF> , ADA adj. ESCOFAT, -ADA adj. ant. Proveït d’escofa. Que té escofa? Que no té cofa? <EX> Item un bacinet de bavera escofat ab son cap- Un bacinet de bavera escofat amb son capmall mayl de tota boça. Item un almet scofat ab sa bavera, en lo qual ha detras una sivella d or… <END>
+
+<MOT> ESFORCIDAMENT <DEF> [adv. ESFORCIDAMENT adv. ant. Fortment a mà armada. (tal vegada error de còpia per esforçadament?) “…que l dit Solda fassa aiuda en prest o en altra Per ço que les dites guerres pusca mils e pus manera al dit Senyor Rey, per ço que les dites esforcidament e pus longament menar e tenir, guerres pusca mils e pus esforcidament e pus doc. a. 1292 (Capmany Mem. iv, 19). longament menar e tenir…” Capmany, Antoni de (editor) Coŀlecció diplomàtica VIII ESLLEVAR,[ESLEVAR]] <DEF> v. a. ESLLEVAR v. tr. ant. Llevar, alçar, elevar. Alçar? <EX> Item al galet eslevar, ligat sal calent en un saquet Al galet esleuar, liga’t sal calent en un saquet e e posat lo en la fontanela del col. Molt hi val. <END>
+
+<MOT> MANTESÀ <DEF> , ANA adj. MANTESÀ, -ANA adj. ant. Natural de, o pertanyent a la ciutat i territori de Nadiu o propi de Màntua? Màntua. <EX> …e amena be VI milia homens de peu ab mal- Nadiu o propi de Màntua? Servents toscans e vats sarts qui s mesclaren ab ells… e d aquells manthesans ab llances llongues, Muntaner servents toscans e manthesans ab llances llon- Cròn., c. 275. gues qui ls preen cascu un cavaller… <END>
+
+<MOT> MARROIES <DEF> ,[MARROYES] s. MARROIA f. ant. Hemorroides. Hemorroide? V. moroines, morroides. <EX> E la ssenrra de les ssarmentz quan es mesclada La ssenra de les ssarmentz… val a les marroyes ab vi negre e fexat en lo fondament val a les e als nervis quan són torçuts, Medic. part. 53. marroyes… <END>
+
+<MOT> MERCAL <DEF> [adj. MERCAL adj. ant. Propi de mercader o mercaderia. De mercader? “Item. Unes balances mercals de pesar florins.” Balances cava tenen cayguda. Balances mercals Inventari dels béns d’En Gomar Segle xiv van de fi a fi sens cayguda y per pes de or y argent ço és march vuit onças, mitg march quatre onças, doc. a. 1585 (Monsalvatje Not. hist. xix, 60). Vocabulari_Lluis_Faraudo.indd 124 18/2/22 9:50 els mots 125 Vocabulari de Faraudo DCVB MITIFOC,88[MITIFOCH]] <DEF> s. MITIFOC m. ant. Asta entorn de la qual va tortolligada una corda Botafoc (?). o metxa el cap superior d’aquesta s’encén per donar foc a les peces d’artilleria. <EX> Item, un mitifoch e unes quantes carregues de Un mitifoch sense asta, doc. a. 1467 (Aguiló ferro velles. Item, dos mitifochs de ferro de poca valor. <END>
+
+<MOT> PELLOT <DEF> ,[PELOT, PEYLOT] s. PELLOT m. Vestidura, espècie de cot o sobrecot, folrat o 1. ant. Pellissa? guarnit de pells. V. cf. Puiggarí, p. 84, 280. <EX> Item pelots d anyels… I. dr. Item tot autre pelot de salvazina .II. dr. <END>
+
+<MOT> PRIM-SANAT <DEF> , ADA adj. PRIMSANAT, -ADA adj. ant. Castrat de poc. Sanat de poc temps? <EX> Item, carn salada de porch primsenat, de Tots La carn que uendrà si serà culluda o primsanada, Sants fins a Carnestoltes la libra ab la ajuda, doc. a. 1370 (BABL, xii, 138). No aucia per carn dihuit diners I.s. Item, carn salada de porch prim senada fres- passats tres meses pus serà sanat; ne truja prim cals, de Tots Sants fins a Carnestoltes la libra ab sanada de tres meses pus serà sanada, Mostassaf la ajuda Is. <END>
+
+<MOT> REBOLSADORA <DEF> 90 s. REBOLSADORA f. ant. Repols. Repols? V. DCVB, s. v. <EX> It. ha en lo dit scriyent dues rebolsadores de Ha en lo dit scriyent dues rebolsadores de ferra, ferra. instrument de draper o abaixador <END>
+
+<MOT> RESCLOURE <DEF> 91 v. a. RESCLOURE v. Encloure, rodejar. documentat en el segle XV segons Aguiló Dicc.; l’única forma que hem vist documentada és la del part. pass. resclús. <EX> …que quan lo senyor Rey ab sa cavalleria haura passat e resclos lo loch de Maçamagrell, la primera compança qui primerament sera posada en açi a la creu del Puig moga son peno e seguent aquella tinga son cami tornan ves la ciutat… <END>
+
+<MOT> SALAMONAT <DEF> , ADA adj. SALAMONAT, -ADA adj. ant. <END>
+
+<MOT> A <DEF> forma o semblança de salamó; caragolat, en- Entorcillat? tortolligat. <EX> Item un frontal vermel ab molta flocadura ab Per preu de fer los cordons e botons salamonats botons salamonats brodat de seda. <END>
+
+<MOT> SERRAJA <DEF> ,[CERRAJA] s. SERRAJA f. ant. Llecsó, Sonchus oleracens, planta medicinal. Lletsó? <EX> Mas les figes e ls rraims e les altres fruytes… e Les çerrages e les çafanàries, Medic. Part. 93. les cerrages e les çafanaries e totes les altres son dures d esmolrre per la umiditat que an. <END>
+
+<MOT> TAFURELL <DEF> [s. TAFURELL m. ant. Diner estalvi, entaforat. Vulva? “Tres coses fan bon alberch: lo senyor ajustar, la Tres coses fan bon alberch: lo senyor ajustar, la dona conservar, son tafurell no prestar.” dona conservar, son tafurell no prestar, Libre Llibre de tres f. 210, b de tres, no 58. TIFELL,[TIFFEL, TIFFLELL]] <DEF> s. TIFELL m. Xiulet, petit instrument de vent amb el qual hom 1. ant. Picarol? xiula. <EX> item un tifell d argent ab son cordo de seda per L’asna aquella… sens bast, albarda, | collar, ticomit de galea. u sò de sancerros, tifells o esquelles <END>
+
+<MOT> MS <DEF> . de la Universitat de Barcelona <EX> sens traginer / ni altra guarda, / sens bast, albarda, / collar, tifells, / seus cascavells, / pitral, ronçal, / boç e dogal, en Garcia Romeu, / et en Pera Corneyll, / e n Axemen d Orrea, / e n Luna no s apell, / e vaja se n al Puig / cascu ab un tifflell; <END>
+
+<MOT> VIN <DEF> Ç, A adj. VINÇ, -A adj. ant. Lligat, atacat, trabat. Torçut? <EX> Item una taula ab sos peus vinços. <END>
+
+<MOT> BLEUMA <DEF> 92 s. BLEUMA f. ant. per fleuma? o per beluma? <EX> E sobre aquesta petita bleuma poria hom he- E sobre aquesta petita bleuma poria hom hedidificar un gran castell, pero no vull caure de mon ficar un gran castell, Col. Bof. xiii, 285. roci, ans tornare a mon primer proposit. <END>
+
+<MOT> ESTAL <DEF> ,93[STAL] s. ESTAL m. que porten els diccionaris Aladern, Escrig i Martí Gadea amb el significat de ‘partida de gent armada disposta per a la guerra’, és una paraula inexistent, segurament deguda a error de còpia per estol. <EX> Item, doni a n Johan Lobet, piquer, per un stal que ffeu de ffer les represes per metre aquelles iiij ymatges que staven sobre los bastiments de la creu, LXXVij sous. It una estal e aquella gran per bestiar, Inv. Vich, 1413 <END>
+
+<MOT> EXEQUINA <DEF> ,[EXSEQUINA] s. <EX> Insula, ço es, exequina que s faça en mig de flum, es d aquells qui han les honors deça e della del flum, que s tenen ab la riba del flum… …e segons que cascu d aquels hi ha frontera en la riba del flum, deu aver port d aquela insula o algezira o exsequina. <END>
+
+<MOT> PELOTXA <DEF> [s. “…los pits e la pelotxa d aquells verdejaven per la molsa en ell aferrada…” Vilaragut, Antoni de (traductor) Les Tragèdies de Sèneca (atribució falsa a Vilaragut) Ypolit e Phedra, p. 459 PIDA s. “…e les fuylles sien picades e destemprades ab vi o pida, que es dita requies e sien donades a beure ans de la accessio entro a .iij. vegades…” Tresor de pobres (MS. 216 de la Bibl. Univ. de València) cap. XLIX QUIXA s. “Item, tota bala de quixa que roba sia vaja a traves… III diners.” Tarifa de la lleuda de la Vall de Querol Vocabulari_Lluis_Faraudo.indd 133 18/2/22 9:50 134 vocabulari de la llengua catalana medieval RAPASCELL,[RAPPASSEL, RASPASÇELL]] <DEF> s. <EX> Item, .ii. alfardes o vells e vi raspasçells de seda, iii. flo. Item, .i. cofret en que stan les dites manegues e alfardes e rapascells, e altres dites coses. <END>
+
+<MOT> RESIVADURA <DEF> [s. “Si la escorsedura sia fresca lo primer dia e lo segon de l atenyedura sie resivat per lo que sagne per la resivadura…” Tederic Cirurgia dels cavalls MS. Biblioteca Nacional de París, fons espanyol 212, f. 104 SOLIMAT, ADA adj. “…primerament un pali d altar, de seda vermell ab ramages vert, solimat de drap vert. item una capa de cor de seda, barrejada groga e violada, ab una nosca d argent, solimada de cendat vermell.” Rubió i Lluch, Antoni (editor) Docs. cult. cat. med. I, CLXXIII SUSATGE s. “E lo dit peu qui es fet de .viij. puntes es tot ciellat ab susatge tresfoliat.” Primer libre de l’argenteria e joies de la reina Sibília Girona, 1385-1386 TAMAIA,[TAMAYA]] <DEF> s. <EX> Item que cascun confrare pach lo primer any solament que y sia entrat tres diners a obs de tamayes e altres aynes per la dita Confraria, salves les coses demunt dites. <END>
+
+<MOT> ENTEC <DEF> ,[ENTECH] Musti, pansit, dessecat. (?) “E l oliver era tot sech, <END>
+
+<MOT> E <DEF> lo preceguer nulh entech Rebia per calor del sol.” Metge, Bernat Llibre de Fortuna e Prudencia 236 <END>
+
+<MOT> ENVOLLA <DEF> [s. Embolcall. (?) “Item, un tancaporta de Rebecha. Item, un tapet chich. Item, un altre tapet per envolla.” Inventari dels béns de Joan de Borja, duc de Gandia (s. xV) Arxiu de la Catedral de València, sign. 64: 24. Segle xv Vocabulari_Lluis_Faraudo.indd 136 18/2/22 9:50 els mots 137 ESPATXAT, ADA un. pluri. Acabat, ada. (?) “Sapgats que ieu hay per spetxat Que despuys que la nostra mayre Ffech peccar nostre primer payre, No ha nascut hom en est mon Qui ten greus mals com en mi son Haie soffert;…” Metge, Bernat Llibre de Fortuna e Prudencia 485 ESPIGÓ,[SPIGO]] <DEF> s. Braç (de la creu). (?) <EX> Item, vj lliures per preu de quatre peces grans de pedra… que d aquell posades en la dita pedrera, a ops dels spigons de la dita creu… <END>
+
+<MOT> GORET <DEF> [s. Matalàs. (?) V. cf. el s. f. gorella (dicc. Aguiló). “…car ja ne sots vos stat servit en Tortosa de aquelles coses com son coceras e draps de goret…” Luna, Pedro de Pedro de Luna, Docs. CLXXXVI INVESTIGAT, ADA s. Qui indaga, investiga. (?) “…com tots cregam e sens subtilitat en la ley crestiana se aconsegueix paradis e gloria, e los investigats ab sutil enginy cahuen en dupte e posseheixen los inferns…” Martorell, Joanot Tirant lo Blanch cap. CXXXVIII LAUSENGER,[LAUSANGER]] <DEF> s. Losange. (?) <EX> Item altra tovellola de drap de lin ab los caps obrats de seda negra qui reten lausangers e al mig de cascuna lausanger ha una M d aur ab fulles de trevol de seda de diverses colors. <END>
+
+<MOT> MAN <DEF> ÇANA s. Boletes. (?) <EX> Primo, unes capçanes ginetes de parxe de seda vert, ab .iiij. alquellades grans d argent daurat e en les .ij. de les quals fallen smalts d es mig, ab .x. mançanes, .iiij. caps, .ij. platons e .ij. civelles d argent d obre morischa… Item altres capçanes de cuyro morat, en que ha .iiij. alcalades d argent daurades, niellades, obrades a la morischa, ab .vj. mançanes, .iij. caps, una fivella, .j. plato e .ij. sostincuts tots d argent de la dita obra… <END>
+
+<MOT> MIRAR-SE <DEF> [v. refl. Escaure, concernir, ser pertinent. (?) “…en tot loch on Sent Michel sera, sia armat ab son mantel d adzur, empero si hi havia loch que Sent Michel no s mires que s d anar armat, que sia remes al dit pintor de fer lo d aquesta color que vist sera faedor a el.” Contracte del pintor Ramon de Mur 7; Guardiolada, 1421 OBLAR v. n. Oferir. (?) “…e de allo la Ciutat no pogue haver oblat ans fon axi que per son silenci, desidia e tolerancia totes les bandositats entraren e romangueren a guerrejar e fer actes reprovats…” Coŀlecció de cartes missives n. 9 g3; València, 1409 ORA,[HORA]] <DEF> s. Orella. (?) <EX> …pres lo la roda del carro, tantost lança sanch per la boca e nas e hores: lo diumenge primer dia de setembre fonch mort. <END>
+
+<MOT> REECONSELL <DEF> ,[REECONCELL] s. Penediment tardà. (?) <EX> …e aquells qui estan en infern son sobject en lo qual estan desesperaments e reeconcells e blastumies, e plors e dolors e angoxes e turments… <END>
+
+<MOT> REFERIR <DEF> ,[REFFERIR] v. a. Refer, reparar. (?) <EX> E mes avant façats refferir de murter lo vall del toro. <END>
+
+<MOT> SEN <DEF> [s. Ocell. (?) “E a endeny de poca presa mas tota ora seguex e pren grans aucells axi com gruhes e sens e d altres d aquells semblants.” Flors de les receptes medecinals per ocells de caça MS. Biblioteca de la Universitat de Barcelona, cap. xxvj 98. El DCVB (s. v. raïmar) indica: «6. ant. Raure, afaitar (ho posa dubtosament el Diccionari Aguiló com a documentat en el segle xv)». Vocabulari_Lluis_Faraudo.indd 139 18/2/22 9:50 140 vocabulari de la llengua catalana medieval SOLIU, IVA adj. Llis. (?) “Item que si daciavant sera attrobat algun drap o draps fets açi en Mallorques de lanes strangeres, ne stams dutxats o solius qui sien strangers… que aquell tal no hage ne puscha haver lo dit senyal de M,…” Capítols per l’obratge de les llanes Mallorca, s. xv TABALET s. Amulet. (?) “saquet, ventosa e tabalet, albaranet al coll lliguat, vime tallat no y ha res tal!” Roig, Jaume Spill 8.174 TAFARRA,[TAFFARRA]] <DEF> s. El cul. (?) V. reretranga, retranga. “Massa us put a ou covat La paltonera, <END>
+
+<MOT> Y <DEF> a sentina de galera La taffarra;” Coŀloqui de dames 771 <EX> O, rey angles / menys vos preu q una garra Vostre poder / ne l art de guerraiar Si n tals affers / vos voleu scusar Contre ls infels / menys valents que tafarra. <END>
+
+<MOT> ARRIGO <DEF> ÇAT, ADA adj. ARRIGOÇAT, -ADA adj. ant. Rugós, osa. (?) Arregussat? <EX> …la dita moneda deuen la lliurar a les guardes, Com los moneders han amonedada la dita moe les guardes deuen guardar si es be amonedada, neda, deuen-la lliurar a les guardes, e les guardes que no sia arrigoçada ne refferida ne massa deuen guardar si és bé amonedada, que no sia curta, e tota aytal sia triada e trencada. <END>
+
+<MOT> CONDOBIAT <DEF> , ADA adj. CONDOBIAT (i sa var. encondobiat), -ADA adj. ant. Involucrat, ada. (?) Enfosquit d’enteniment? <EX> …e ayso li es avengut que l estagues pensant Per lo pacat an qua el as condobiat qal no’s moch del trebal que l avia aut e per lo pecat en que el ancontra la vanguda del Sant Grasal, Graal 45. es condobiat que el no s moch encontra la ven- Yo’l viu verament e anch no ma’n moguí e si’n guda del Sant Grasal… <END>
+
+<MOT> ENCONDOBIAT <DEF> , ADA adj. ENCONDOBIAT, -ADA adj. ant. Atemorit, ida. (?) Temerós i condolgut? <EX> Certas, so dix Lancalot, yo l viu verament e anch Yo’l viu verament e anch no ma’n moguí, e si no me n mogui e si n estich tot ancondobiat. <END>
+
+<MOT> A <DEF> qui sia feta part bona De les culades, <END>
+
+<MOT> E <DEF> jugarets a les cambiades De les mullers.” Metge, Bernat Llibre de mals amonestaments 96 <END>
+
+<MOT> CAP EN DANSA (METRE LO <DEF> ___) fr. Posar en risc i perill. <EX> Ne la mar ha ten gran amor Als navegans qu apres bonança No ls fassa metra l cap en dança Portant los a perill de mort? <END>
+
+<MOT> CARNATGE (GITAR A <DEF> ___) fr. Procurar per tots mitjans perjudicar o perdre algú. <EX> Cant me vesien ben vestit, Sells qui s fazien mos amichs Disien qu ells eren antichs Servidors de tot mon linatge, Mas are m giten a carnatge, Cant vesen que no ls pux res dar. <END>
+
+<MOT> CAVALL CUITAT (A <DEF> ___) mod. Ràpidament, amb pressa. <EX> Lo dit .xxviiij. die de octubre en Johan Periç de Maella, correu, ana de manament dels honorables concellers a cavall cuytat a les torres dels honorables mossenyor Ffrancesch dez Pla e mossenyor Bernat ça Pila… pregant los… que apres dinar tentost fossen a la casa de la Ciutat per coses de gran importancia. <END>
+
+<MOT> MORRO (DONAR PEL <DEF> ___) fr. Caure en falta o error per inadvertència, desobediència, ignorància. Vocabulari_Lluis_Faraudo.indd 158 18/2/22 9:50 les locucions 159 <EX> …e la persona qui aytals comandes pren, guart se, per bona que sia, que no y caygua o no y do pel morro; car aytant com d aytals coses hom se guarda mes que no reba carech ne comanda, aytant serva si mateix per pus net dins sa consciencia e de fora en sa fama. <END>
+
+<MOT> AH LAS <DEF> ! interj. Exclamació de plany, lamentació, enyorança. V. ai las!, alàs, allàs, llas!, llas (eh ___!), llas (oh ___!), llassa!, o las!, oi las! <EX> A las! Qui m mostrara de retre gracies a la mia dona en tal manera que yo no puxa esser reputat per ingrat, ne que li aja fet major retribucio que no devia? <END>
+
+<MOT> AI <DEF> ,[AY, HAY] interj. Expressió de pena, dolor. <EX> E aquela hora matexa dix la anima a l angel: -Ay! senyor, e que sera de mi?… lo meu sperit n ha portat pena sobre la squena mals huytanta anys, treballs, afanys e greu turment, vetlant durment, no cessant may de cridar ay! e sospirar, <END>
+
+<MOT> AI <DEF> , AI! Duplicació admirativa de la interjecció <EX> E quan los diables foren a ell venguts, e l trobaren senyat, ab altes veus començaren a dir: -Ay, ay! Aci ha un vexell buyt, mas esta senyat del senyal de la creu. E tentost desparegueren. E va l pendre ardidament hi estoja lo, e gran murmurament e crits se van escomoure per tot lo palau, e van dir: -Ay, ay, que l enemich se n va no forçat de nengu ab la presa! <END>
+
+<MOT> AI DE MI <DEF> ! fr. Exclamació compassiva de si mateix. <EX> Ay de mi trist, e quant li merexere los bens que m ha donats e les honors que m ha fetes e m fa tots dies! <END>
+
+<MOT> AI LAS <DEF> ! Exclamació, plany d’angoixa i dolor. V. ah las!, alàs, allàs, llas!, llas (eh ___!), llas (oh ___!), llassa!, o las!, oi las! <EX> Ay laç! E tan poch dura aquella dolsor que primerament era en los mols meus… Ay las! quant son desemblants los membres de la donzella ab los membres de aquesta vella traydora. <END>
+
+<MOT> AI MI <DEF> ! fr. Exclamació de dolor. <EX> Ay mi, llassa, que encara viu Auxilles per dar penes als troyans, encara veig que s rebella! <END>
+
+<MOT> AJUDA <DEF> ! s. Crit d’aquell que reclama ajut o socors. <EX> Lo senyor senti la pere caser e cuyda s o dixes per ver e crida sempre: -Deus, ajuda! <END>
+
+<MOT> AMON <DEF> ! interj. Amunt! Imitació del llatí sursum! <EX> Amon! senyor lo rey, les tues paraules son molt bones e verdaderes. <END>
+
+<MOT> ARAGÓ <DEF> ! ARAGÓ! Crit de combat dels catalans a l’època medieval. <EX> E com los cathalans e aragonesos vaeren que aquells se tenien tant fort, moch se un crit entre lls, e cridaren: -Arago! Arago!- E llavors aquell nom escalfa ls tots, e van tant regent ferir que aço fo la major maravella del mon… <END>
+
+<MOT> ARMES (A <DEF> ___!) loc. Crit d’alarma. <EX> …que ls primers qui ls vaeren foren peixcadors cathalans, que ls vaeren avallar del castell de Caller, e comensaren a cridar: -Via fora! A armes! a armes! …e havia .ij. escuders en dues cledes que miraven la vila, e dixeren: -A armes, a armes! que veus aqui los sarrains. <END>
+
+<MOT> ARMES <DEF> ! ARMES! interj. Crit d’alarma. <EX> Lo diable los feu inflamar, e huna nit ells se n van, e lo diable munta al campanar a repiquar, e crida que lo pintor se n mena la muller del senyor, e cridava: -Armes! armes!… <END>
+
+<MOT> ARRI <DEF> ! interj. Crit dels carreters per fer anar les bèsties avant. <EX> Tres besties son: qui diu arri a la bestia qui cavalca e te sperons, e qui diu sta e te les regnes… <END>
+
+<MOT> AUR <DEF> ! interj. Interjecció de comiat. Adeu! V. cf. el cast. Agur, Monlau i Aguiló. <EX> E tantost totes les gents cridaren aur, aur: e tuyt ajonollarense e cridaren altes veus salve Regina. …e los sarrahins qui ls vaeren que ya n avien hauda llengua, cridaren en llur sarrahinesch: -Aur! aur! -e molt vigorosament vengueren envers les galees d en Corral Llança. <END>
+
+<MOT> AVANT <DEF> ! interj. Veu comminatòria d’anar avant, per incitar a una acció ràpida. V. avant (A __). <EX> …e tota la host, ab care molt alegra, respongueren ab .i. coratge e ab una vou, axi com lo dit Scipio tingues la sobirana honor del Capitoli, e tots lo saguissen cantant e cridant avant!, sobra carros bells e resplandents. …e de Julii Cesar, qui, pugnant per la cosa publica, null temps no dix a sos cavallers: -Avant!, -mas tostemps dix: -Seguits me, -car tostemps anava primer que ls altres. <END>
+
+<MOT> AVANT (TIRA <DEF> ___!) Exclamació per animar i fer avançar les cavalleries. V.[Rabelais, Gargantua, cap. XL]. <EX> …la somera espantada torna en rera, e Balaam, cegat de sos irats pensaments e apetits, cridava, donant a colps a la somera, dient: -Tira avant! <END>
+
+<MOT> AVANT <DEF> , AVANT! loc. <EX> …e troba n d altres que sehyen al portal, axi com fan les dones al filar: -Avant, avant! Anats a cenar al palau del rey! …cridant nos algunes injurioses paraules, dient: -Avant, avant! canalla, canalla, xuxumeus e melrosats de Barcelona! <END>
+
+<MOT> AYO <DEF> Ç! interj. Crit per excitar els homes al combat. <EX> E metem hi mans, e manam los homens pendre a les cordes, e cridam ayoç, axi com fa hom al varar d’una nau o al traure… E nos manam cant vingues a la mija nuyt que les galees levassen les ancores, e que nuyl hom no cridas ayoç, mas en semblant d ayoç que ferissen ab .j. fust en la proa de les tarides e de les galees al levar de la ancora… <END>
+
+<MOT> BÉÉ <DEF> ! interj. Exclamació expressiva de sorpresa. “…e quan parlave, los que li estaven entorn tots se tapaven lo nas (tan fort li pudie l alende) en tant que ell se n maravellave, dient: -E que haveu? -Que havem? <END>
+
+<MOT> L <DEF> alende vostre put tant fort que no u podem sofferir.- Ell dix: -Bee!” Ferrer, Vicent Sermons de Sant Vicent Ferrer XL <END>
+
+<MOT> BONA (QUE <DEF> ___!) loc. Locució interjectiva proferida irònicament. <EX> Donchs, que bona! ¿volriets vosaltres solament lo bell bell, ço es, la honor e la pompa de l Offici, e lo salari, e que no y fessets profit alcun? <END>
+
+<MOT> CALDERES ADOBAR <DEF> ! Crit del manyà ambulant. <EX> Considerat tot lo gran dan qui en aquesta illa se segueix per alscuns manyans, calderas adobar strangers qui hic venen de terres stranyes, lavants lo guany dels artesans d aquesta illa… <END>
+
+<MOT> CAP <DEF> ! interj. Usada per a fer fugir els gats. Vocabulari_Lluis_Faraudo.indd 167 18/2/22 9:50 168 vocabulari de la llengua catalana medieval <EX> Duns gats que y ha lepols / me sembla que sia, Que, si dins en l olla / pot metre lo cap, Per molt que li diguen / xo! fora! ni cap! James del lepar / deixar se sabria; <END>
+
+<MOT> COM <DEF> ! interj. Interjecció que expressa l’estranyesa. <EX> -E com!, respos Tiresias, clames de fortuna? -Be n he raho, digui yo. <END>
+
+<MOT> DALI <DEF> ! interj. Interjecció expressiva d’impaciència. Hom la diu per a excitar a fer alguna cosa. <EX> Dali! trau me un bon capell, los canonets per al coll, un poch d oli y alcofoll que no tinch gracia sens ell. Dali! ves, stat alla, Oblida t que has de venir. <END>
+
+<MOT> DALI <DEF> , DALI loc. Locució interjectiva que expressa l’enuig que ocasiona la porfídia indiscreta. <EX> …la lengua d aquesta la qual de guarguanteyar may no cessa, may no molla, may no fina, dali dali del mati fins a la nit en la qual dormint no sab calar. <END>
+
+<MOT> DESPERTA FERRES <DEF> ! Crit de guerra dels almogàvers. <EX> E com cascuna de les hosts se vaeren, los almugavers del comte Galceran e de don Blasco cridaren: -Desperta ferres!- e tots a colp van ferir dels ferres de les llances e dels darts per les peres, si que foch ne feya cascu exir… E com los almugavers vaeren que eren prop de ferir, cridaren tuyt: -Desperta ferres!- E tuyt donaren dels ferres de les llances per terra, si que paria que fos una gran lluminaria… <END>
+
+<MOT> DÉU (AH <DEF> , ___!) Exclamació de goig, de sorpresa, d’admiració. <EX> -A, Deu!- dix l emperador - e aço com se pot fer? Que, si ver era so que vos dehits, ja may hom fou tan beneventurat ne tant alegre con yo. <END>
+
+<MOT> DÉU (OH <DEF> ___!) Exclamació vocativa del nom de Déu. <EX> O Deu! E com nos han preycades les obres dels sancts pares passats a servar fealtat a l altre! <END>
+
+<MOT> DÉU (PER LO CAP DE <DEF> ___!) Imprecació blasfematòria. <EX> P. Cardona draper de Mallorques deposa que el dit A. Dolms li devia diner per drap, e un dia com lo dit P. Cardona demanas los dits diners al dit A. en lo seu obrador, lo dit A. dix: -Per lo cap de Deu, en Cardona, que vos conexets que jo som vostre amich, que jo us fare mes de be que amich james haguessets. <END>
+
+<MOT> DÉU (VIA <DEF> ___!) Exclamació ponderativa. <EX> …diran expressament e a pales: -Via Deu!, me prest mon compare o mon amich n Aytal, que no he pahor de bans, ni de penes, ni de negun Official. -E, en confiança d aço fan tots desastres. <END>
+
+<MOT> DÉU NO M <DEF> ’AJUT! Exclamació optativa, seguida d’una condició. <EX> No pogue star lo adolorit Emperador que no isques de la cambra, e ana devers Tirant e veu sa filla mig morta, e dix: Deu no m’ajut si se a qual mes prest socorrega!… <END>
+
+<MOT> DIABLE <DEF> ! interj. Denota impaciència, sorpresa, desgrat. <EX> E diable!, dix lo maestre, estrany hom sots, digats hoc e no n façats re. <END>
+
+<MOT> DIMONI (VAJA AL <DEF> ___!) loc. Imprecació irada de repulsió, d’adversió. Vocabulari_Lluis_Faraudo.indd 169 18/2/22 9:50 170 vocabulari de la llengua catalana medieval “Si us altats de la muller poch, Vage l dimoni; <END>
+
+<MOT> E <DEF> lexats lo matrimoni De continen.” Metge, Bernat Llibre de mals amonestaments 136 <END>
+
+<MOT> EA <DEF> ! interj. Eia! <EX> …e Balaam, cegat de sos irats pensaments e apetits, cridava, donant a colps a la somera, dient: -Tira avant! ¿No iras? Ea! Curial calla, mas los altres li digueren: -Ea! cavaller, manats si volets que entre, que per nosaltres no stara. <END>
+
+<MOT> EEH <DEF> !,[HEE] interj. Marca les mateixes impressions, més accentuades però, que l’exclamació eh! <EX> Mas quan ve que Deus fa gracia a la persona: -Hee, massa has peccat! Donchs, verament, yo me vull dar al servi de Deu-… <END>
+
+<MOT> EH <DEF> !,[E, HEE, HE] interj. Exclamació d’admiració, d’ironia, d’excitació, estímul, per cridar l’atenció. <EX> …per tant cor comunament, quant vol contrastar a l altre, primerament li dona hom de la e per la cara dient: -E, senyer! etc. Quant hun preycador diu a hun religios: -Hee, e per que no teniu la regla ara, mentre sou jove?… <END>
+
+<MOT> EIA <DEF> !,[ELLA] interj. Interjecció usada per a fer avivar el discurs i excitar l’atenció dels oients. <EX> …ell senti dir darrera: -Ella, ella, Colandrino, e que vol dir aço? Scolta! <END>
+
+<MOT> ESTÀ <DEF> !,[STA] interj. Crit dels carreters per fer aturar les bèsties, i també per a ordenar de cessar qualsevol acció. <EX> Tres besties son: qui diu arri a la bestia qui cavalca e te sperons, e qui diu sta e te les regnes… Item, com fos vengut a peu al port de Ercules, e volgues pujar en la nau, una vench a les sues orelles, qui li dix: -Mantino, està! no t mogues. <END>
+
+<MOT> FORA <DEF> ! interj. Exclamació usada per a foragitar algú d’un lloc. <EX> …e lo beneyt Jhesus, soptosament, se dexa anar contra ells, dient: -Fora, traydós! fora de la casa del meu pare!… <END>
+
+<MOT> GARA <DEF> ! interj. Atenció!, compte! (per advertir de guardar-se o fer atenció). <EX> …plaher se poden dar dins la bardiça de la ley, mas gara! no salten la bardiça… Cuydau que Deu vulla de nosaltres les paraules, que son fulles? -Façam fruyts, sino gara! guardem nos… <END>
+
+<MOT> GUAI <DEF> !,[GUAY] interj. Ai! Interjecció usada com a expressió de dolor i altres sentiments. <EX> Mes guay de nosaltres / que pochs son que sien ab los proismes lealment: parlant e amonestant los… Mentre que aquell parlave ab ella, bufa vent de les IIII parts del mon e lança l en la mar maior, la vos rompe Elies sos draps e talla sos cabells, e dix: -Guay, que perduda la salvacio de Israel! <END>
+
+<MOT> GUAI DE MI <DEF> ! Exclamació de dolor. <EX> No dire pus / mas contemple cascu l estat d aquell / qui en tal cas se veu, mas, guay de mi / que tot lo cas es meu! <END>
+
+<MOT> GUAIA <DEF> !,[GUAYA] interj. Ai!, guai! interjecció usada com a expressió de dolor i altres sentiments. <EX> E diu Rabbi Rahamon quan foren remoguts del Çanhedrim del consistori de Tazit e ls fonch tolt lo poder de juiar lo judici criminal, vestiren se de sachs e tolgueren, si s vol romperen los cabells e digueren: -Guaya de nos que tolt es lo ceptre de Juda e lo fill de David no es vengut! <END>
+
+<MOT> GUAITA (BONA <DEF> ___ BONA!) loc. Crit de les guaites durant la nit. <EX> Com ells foren prop e los de la guayta cridaven e deyen: -Bona guayta, bona!- ells passejaven ferm e cuytaven .x. o .xij. passos, e com ells callaven, ells aturaven, e axi u feren fins tant que hagueren passada la torre del spero. <END>
+
+<MOT> GUANY (MAL <DEF> ___ FAÇA!) Exclamació imprecatòria. V. mal haja! Vocabulari_Lluis_Faraudo.indd 172 18/2/22 9:50 les interjeccions i les exclamacions 173 <EX> Ho, mal guany façe, dix lo frare, qui primer dix ni feu tals vecees e follies…! <END>
+
+<MOT> HA <DEF> ! interj. Ah! <EX> Ha! sancta Maria val, dix Tirant, james en tota la mia vida pensi fer cars de tracio… <END>
+
+<MOT> HOSANNA <DEF> ,[OSANNÀ] s. Crit de goig, lloança. <EX> ab clara veu e tots un crit fill de Davit alt osannà com rey entrà ab gran honor, <END>
+
+<MOT> HUDÀ <DEF> ! interj. Oidà! <EX> E quant l Amorat ho hac vist, sigita .j. gran sospir. E aquells si li digueren: -Huda! senyor, e que es aço e per que sospirats? <END>
+
+<MOT> E <DEF> que dira senes mentir: -Ay lassa! mal anch suy nascuda <END>
+
+<MOT> E <DEF> de ten alt castel cayguda!” Facet 1.287 <END>
+
+<MOT> LLASSES (AY <DEF> ___!) interj. Exclamació de plany (de dones). <EX> -Ay laces, e quines aventures nos han aportades en aytal cars com som en poder de aquests dos hommes que no n sabem qui s son… <END>
+
+<MOT> LLASSET <DEF> !,[LASSET] interj. Diminutiu de la interjecció de plany <END>
+
+<MOT> E <DEF> tinch, lasset! altra dolor Ben greu e fort: Que no sap si m so viu o mort La mia mare;” Sermó del bisbetó 229 <END>
+
+<MOT> MAL HAJA <DEF> ! Espècie d’interjecció imprecatòria. <EX> Mal aja amor qui la m feu abellir Si no li fas de mes dolors sentir. E lo dit Gonçalvo mes se en mig de Nos e de la reyna e dix aquesta canço: Mal aja qui se n yra encara ni encara… <END>
+
+<MOT> MAL SIA <DEF> ! interj. Mena de maledicció. <EX> -Mal sia a nos! la primera victoria es feta en Malorcha e la primera bataya, e ls nostres han ahuda victoria, e nos no hi som estats. <END>
+
+<MOT> MALEÏT SIA <DEF> ! Mena d’imprecació. <EX> Maleyt sia celh qui primer De terra m leva quant fuy nat; Meleyt sia l vila orat Qui m bateja, com no m mata; Maleyt sia qui m encona, Com no m i mescla galgar; A, malayta sia la ffortuna que aquest cavaller no ha mes en pus noble estat! <END>
+
+<MOT> MERCÈ (PER <DEF> ___!) loc. Exclamació que implora indulgència, o misericòrdia. <EX> A, per merçe! / sia crucifficada la mia carn, / cruel, inobedient, <END>
+
+<MOT> MONJOI <DEF> ! MONJOIA! Crit de guerra dels francesos: Montjoie! Saint-Denis! O simplement mont-joie! V. Mont-Joia. <EX> …e veren que ja havien posada la senyera del rey de França e del cardenal en los murs de Castello, e y hagueren recollits los Francesos, e cridaven per los murs: -França! França! Monjoy! Monjoya! <END>
+
+<MOT> MONT-JOIA C <DEF> rit de guerra dels francesos. V. Monjoi! Monjoia! <EX> E los Francesos cavalcaren poch a poch avant. E quant veren que ls servents hagueren despes totes llurs armes, cridaren: -Mont-Joya! e desrengaren e dexaren se anar poderosament als servents, axi que tots los desbarataren tantost. <END>
+
+<MOT> MORT (A <DEF> ___!) loc. Exclamació sinònim de muira! <EX> Mas les guaytes per ço que no poguessen esser reptades de fe, cridaren: -A mort! a mort! e gitaren pedres e cayrells, e meseren grans crits. O, quant goig sera aquell qui de aço naxera dins nostre cor! <END>
+
+<MOT> O LAS <DEF> ! Exclamació de dolor, de gran aflicció. V. ah las!, ai las!, alàs, allàs, llas!, llas (eh ___!), llas (oh ___!), llassa!, oi las! <EX> O las! e quin exemple dona a nosaltres, que no havem promissio certa axi com ell! O las! si ela s volra penedir com en lo comensament me fou tan dura… <END>
+
+<MOT> D <DEF> est mon?…” Garcia, Martí Cançoner de Saragossa f. 222 v <END>
+
+<MOT> OI <DEF> !,[OY, HOY] interj. Interjecció sinònima de oh!, ah! <EX> …vench don Nuno a la riba de la mar, e cridaren a altes vous: -Oy de la galea! Responeren: E que? Al religios digau: -Com es ordenada vostra vida? no s i te regla? -Oy! mesqui de aquell qui no te regla:… <END>
+
+<MOT> OI LAS <DEF> ! interj. Ai las! (exclamació de dolor). V. ah las!, ai las!, alàs, allàs, llas!, llas (eh ___!), llas (oh ___!), llassa!, o las! <EX> Diran donchs: -Ja mostraria que sia ignorant; aventurem se a dir moltes errors-; oy las! quants mals per esta superbia! <END>
+
+<MOT> OLA <DEF> ! interj. Serveix per a cridar algú. <EX> Sus ola! vos, En jovencell Qui Gaspar Nadal vos dieu, Capiau tambe en lo concell <END>
+
+<MOT> OSTA <DEF> !,[HOSTA] interj. Exclamació significativa de repugnància o resistència a fer o admetre alguna cosa. <EX> Lo ciutada… dix al frare: -Gran veritat deyts, mas venen a vegades unes pregaries armades que no y pot hom tenir. -Hosta!, dix lo frare, ¿e com tendriets a prova de ballesta, que a paraules vos no puxats tenir? <END>
+
+<MOT> PARAÍS HAJA <DEF> ! loc. Al cel sia! <EX> Parays haia, en bon pos vaia mon mort marit! <END>
+
+<MOT> PUNYAL DE VIC <DEF> ! Exclamació eufèmica. “Ab ull lo mir que n te bon feix, Punyal de Vich! Be m daria n lo malich <END>
+
+<MOT> A <DEF> cada tret! Be deu fotre en un arret Vegades dos;” Coŀloqui de dames 316; Jardinet d’orats <END>
+
+<MOT> QUI VA <DEF> ? Crit de les sentinelles o guaites quan s’acosta algú. <EX> E aprés ell ab los altres qui ab ell eren guaytaven per la vila, e com foren a la plaça del blat sentiren trepitgs de peus en les voltes d en Altelló et axi ells se acostaren devers les dites voltes dient qui va… <END>
+
+<MOT> SANT JORDI <DEF> ! un. pluri. Antic crit de guerra dels catalans. <EX> …per que Curial en guisa de apartar se strengue la lança e donant dels sperons, cridant Sant Jordi! corre contra Boca de Far. <END>
+
+<MOT> SANTA MARIA <DEF> ! interj. Antic crit de guerra dels catalans. <EX> …tota la ost a una vou comença de cridar: -Sancta Maria, Sancta Maria. E aquest mot no ls exia de la boca, que quan l avien dit sempre s i tornaven, e aixi com mes lo deyen mes pujava la vou, e aço dixeren be .xxx. vegades o pus. <END>
+
+<MOT> SANTA MARIA VAL <DEF> ! interj. Crit d’auxili. <EX> …e dona li ab la ma tal per la cara plena de cendra, qu envers lo gita en terra, si que crida com fo en terra: -Sancta Maria val!- tres vegades, e jach axi com si fos mort… <END>
+
+<MOT> SUS <DEF> ! interj. Exclamació usada per a excitar a l’execució sobtada o vigorosa. <EX> E lo rey dix: -Sus, demanau. -Ara voleu que diga yo qual demanara primer? -Hoc, Senyor. -Donchs, sus, vos (a l envejos) demanau primer. E lo rey dix: -Sus, levats vos en bon hom: que qui no ha culpa no deu demanar perdo ne fer escusa… <END>
+
+<MOT> TOL-TE <DEF> ! interj. Interjecció significativa de repugnància o resistència a fer o admetre alguna cosa. <EX> …vench .j. porter nostre e dix que be .c. homens armats havia a la porta. E dixem li: -Tol te! Nos exim d armes e tu ns hi vols tornar? <END>
+
+<MOT> UH <DEF> , OOH! interj. Crit de reclam per a fer tornar el falcó al lloure o al puny. <EX> …la diferencia que es entre lo falco sadoll e lo qui es mort de fam, que lo senyor lo cride: -Hu hoo! -tantost ve; mas si es sadoll: -Ara ire, -cabotege, e no s mou. <END>
+
+<MOT> UI <DEF> !,[HUY] interj. Crit que expressa sorpresa, una impressió sobtada dolorosa o no. Vocabulari_Lluis_Faraudo.indd 179 18/2/22 9:50 180 vocabulari de la llengua catalana medieval <EX> …que ls sants pares, quan lo salvador nostre Jesuchrist entra en los inferns per delliurar aquells, foren tan calents e embriachs en la amor de Deu, que no s vehyen ni s sa que ls era esdevengut, e dehyen ab aquella dolçor: -Huy! Huy! Senyor, etc., loan e beneynt lo seu nom. <END>
+
+<MOT> VE <DEF> ! interj. Llatinisme: ai de…!, malaurat de…! <EX> Preserva Deu / una de tal nequicia, Preelegint, al sant fill, seus ve! mare; <END>
+
+<MOT> VENTURA (FORTA <DEF> ___!) interj. Força sort, gran ventura! <EX> -O Deus, dix ella, fort ventura! Ab tant se n va e no s atura e ha sercats homens malvats: <END>
+
+<MOT> VIA <DEF> ! interj. Fora d’ací, anem!, avant! <EX> Via! servents, avant! e estats tuyt apparellats, homens a cavall e a peu, que aci farem nostra jornada. E donchs, -ço dix lo rey de França,- ells son traydors. Via vers ells! <END>
+
+<MOT> VIA A ELLS <DEF> ! interj. Avant contra ells! <EX> E com les galees vaeren que yo era cahut, cridaren: -Mort es lo capita! Via a a ells! via a ells! <END>
+
+<MOT> VIA DINS <DEF> ! interj. Adins!, cap a dins! <EX> …lo mur ne vench en terra e cahech al vall, e ls crits se meteren per la ost e meteren mans a cridar: -Via dins! <END>
+
+<MOT> VIA SUS <DEF> ! interj. Amunt! <EX> E com los cathalans vaeren que aquells pochs se defenien tant, cridaren fort a alta veu: -Arago! Arago! via sus! via sus! <END>
+
+<MOT> VIAFÓS <DEF> ,[VIAFFOS, VIA FORS] s. Crit del sometent. V. princeps namque, so, so emès, sometent, viafora. <EX> …lo veguer de Barchinona anant a cavall epr Ciutat ab sobrevesta reyal cridant per cantons e plasses viafos princeps namque, anant ab molts saigs ab falles de foch cremants… Lo dit die en la matinada vers viiij o x hores entra per Barchinona I hom cridant altes veus viaffos e continua lo dit somatent a les Corts del Vaguer e balle… <END>
+
+<MOT> VIVA <DEF> ! interj. Exclamació de salutació, de goig, mot que serveix per aclamar. <EX> Quant Samuel hach dit aço, dix lo poble a una veu: -Viva lo rey Saul, viva! <END>
+
+<MOT> XO <DEF> !,[CHÔ] interj. Crit per a fer aturar les cavalleries i per a fer fugir els ocells, els cans. Vocabulari_Lluis_Faraudo.indd 181 18/2/22 9:50 182 vocabulari de la llengua catalana medieval “Pres un perdal que y havia <END>
+
+<MOT> A <DEF> l infant lo va donar: -Xo, xo, xo! en pitxolina, Tant bo vos sap lo menjar?” Cançoner de Nadal III <EX> D uns gats que y ha lepols / me sembla que sia, Que, si dins en l olla / pot metre lo cap, Per molt que li diguen / xo!, fora! ni çap! James del lepar / deixar se sabria; E si la gallina ve davant lo senyor xo, xo, no la lexaran viure e fan la jaure en l estable… <END>
+
+<MOT> AH <DEF> , AH, AH! interj. Interjecció onomatopeica triplicada que imita l’explosió de la rialla. <EX> …e la malvada de muller gitave s el llit e per devall lo lançol mirave l e reye se n: ha ha ha! <END>
+
+<MOT> ATROP <DEF> , ATROP! Onomatopeia del brogit cadenciós que fa el cavall galopant. <EX> Si huy hun Senyor tramet a hun sender cuytat en qualque loch, cavaller en son roci, veus que ira atrop, atrop,… <END>
+
+<MOT> BABAIA <DEF> ,[BABAYA] adj. De formació onomatopeica, designa una persona que balbucita; tartamut. <EX> …e Noliva, qui de sobrenom fon appellat Cabreta, com per esser babaya e per tant no poder traure la paraula de la boca sense gran força que n fahia, picava e gratava ab lo peu dret contra terra com fa la cabra… <END>

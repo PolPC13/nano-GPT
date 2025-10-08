@@ -525,3 +525,111 @@
 <MOT> ATROP <DEF> , ATROP! Onomatopeia del brogit cadenciós que fa el cavall galopant. <EX> Si huy hun Senyor tramet a hun sender cuytat en qualque loch, cavaller en son roci, veus que ira atrop, atrop,… <END>
 
 <MOT> BABAIA <DEF> ,[BABAYA] adj. De formació onomatopeica, designa una persona que balbucita; tartamut. <EX> …e Noliva, qui de sobrenom fon appellat Cabreta, com per esser babaya e per tant no poder traure la paraula de la boca sense gran força que n fahia, picava e gratava ab lo peu dret contra terra com fa la cabra… <END>
+
+<MOT> A <DEF> l infant lo va donar: -Xo, xo, xo! en pitxolina, Tant bo vos sap lo menjar?” Cançoner de Nadal III <EX> D uns gats que y ha lepols / me sembla que sia, Que, si dins en l olla / pot metre lo cap, Per molt que li diguen / xo!, fora! ni çap! James del lepar / deixar se sabria; E si la gallina ve davant lo senyor xo, xo, no la lexaran viure e fan la jaure en l estable… <END>
+
+<MOT> AH <DEF> , AH, AH! interj. Interjecció onomatopeica triplicada que imita l’explosió de la rialla. <EX> …e la malvada de muller gitave s el llit e per devall lo lançol mirave l e reye se n: ha ha ha! <END>
+
+<MOT> ATROP <DEF> , ATROP! Onomatopeia del brogit cadenciós que fa el cavall galopant. <EX> Si huy hun Senyor tramet a hun sender cuytat en qualque loch, cavaller en son roci, veus que ira atrop, atrop,… <END>
+
+<MOT> BABAIA <DEF> ,[BABAYA] adj. De formació onomatopeica, designa una persona que balbucita; tartamut. <EX> …e Noliva, qui de sobrenom fon appellat Cabreta, com per esser babaya e per tant no poder traure la paraula de la boca sense gran força que n fahia, picava e gratava ab lo peu dret contra terra com fa la cabra… <END>
+
+<MOT> ABELLÓ <DEF> , ADA adj. Florit, abillantat. <EX> E la dona portava abelló de sedes y d'or al cap, com diu la carta del senyor. <END>
+
+<MOT> ACABRIGAR <DEF> , ADA adj. Abrigat, esquitxat. <EX> Lo mercader acabrigar entrà a la cambra e mostrà la roba que venia de lluny. <END>
+
+<MOT> ALFALDA <DEF> , OSA s. Vol de còfia, faldilla curta. <EX> La muller treia la alfalda per mostrar la roba e tothom la mirava. <END>
+
+<MOT> ALJUB <DEF> , OSA s. Pou cobert, cisterna. <EX> Portaren aigua del aljub per regar lo hort en lo jorn de sec. <END>
+
+<MOT> ALVEZ <DEF> , ADA adj. Antic, vell. <EX> Les parets alvezes de la casa tenien marques de temps passats. <END>
+
+<MOT> ARITZÓ <DEF> , ADA adj. Arrissat, madeixat. <EX> Lo cap de la nena era aritzó de llana i la mare el pentinava amb cura. <END>
+
+<MOT> BARDI <DEF> , OSA s. Juglar, cantador. <EX> Vingué un bardi a la plaça e recità cançons dels temps antics. <END>
+
+<MOT> BARRALLET <DEF> , OSA s. Gerra menuda, càntir. <EX> Portà un barrallet de vi per repartir entre los llauradors. <END>
+
+<MOT> BASSAIRE <DEF> , ADA adj. Humit, moll. <EX> La terra bassaire necessità ser drenada abans de sembrar l'ordi. <END>
+
+<MOT> BEGUT <DEF> , ADA adj. Embriagat, borratxo. <EX> Lo home begut parlava alt e feu escàndol davant la hostalera. <END>
+
+<MOT> BERDALL <DEF> , OSA s. Bastó, instrument de mà. <EX> Agafà lo berdall per protegir-se de l'animal ferotge a la nit. <END>
+
+<MOT> BETXÍ <DEF> , ADA adj. Fort, robust. <EX> Lo cavall betxí pastava ab els altres a la prada del senyor. <END>
+
+<MOT> BOLENA <DEF> , OSA s. Roda petita, polea. <EX> Posaren la bolena al molí per alçar la farina dins la cambra. <END>
+
+<MOT> BORDELLA <DEF> , OSA s. Cabana xicoteta, borda. <EX> La bordella vora la riera servia per guardar el gra i les eines. <END>
+
+<MOT> BRICAR <DEF> , V. v. Brincar, moure's lleu. <EX> Los infants bricaren a la plaça fins que el sol caigué. <END>
+
+<MOT> CABREDA <DEF> , ADA adj. Aspre, cabrejat. <EX> La pedra cabreda fou posada al camí per advertir los viatgers. <END>
+
+<MOT> CALANDRA <DEF> , OSA s. Ocell cantador, auseta. <EX> La calandra cantava a la matinada i la gent despertava amb goig. <END>
+
+<MOT> CALDRÚS <DEF> , ADA adj. Caldós, ardent. <EX> Serviren un caldrús brou als malalts per combatre la fredor. <END>
+
+<MOT> CAMÍ <DEF> , OSA s. Via, ruta. <EX> Lo camí que portava a la vila era ample i empedrat per mil anys. <END>
+
+<MOT> CAVILLÓ <DEF> , OSA s. Ganxo menut, clau. <EX> Agafà lo cavilló per lligar la porta que estava destesa. <END>
+
+<MOT> CENDRÍ <DEF> , ADA adj. Cendrat, enfosquit. <EX> La llanterna estava cendrí després de la flama que s'apagà al vespre. <END>
+
+<MOT> CETINA <DEF> , OSA s. Tela fina, cendal. <EX> La dona vestí cetina i anà a la missa major amb mantell brodat. <END>
+
+<MOT> COLLETÓ <DEF> , OSA s. Coll petit, rodella de roba. <EX> Li cosiren un colletó blanc per adornar la tunica del jovenet. <END>
+
+<MOT> COMANAR <DEF> , V. v. Compartir, repartir. <EX> Comanaren lo pa entre la gent quan arribà la fam a la vila. <END>
+
+<MOT> CONDRINYA <DEF> , OSA s. Closca, petxina. <EX> Trobaren una condrinya a la riba i la guardaren per fer ofrena. <END>
+
+<MOT> CORFÀ <DEF> , OSA s. Cista gran, corfa. <EX> Pogueren omplir la corfà de llavors per plantar en lo camp reial. <END>
+
+<MOT> CORDALL <DEF> , OSA s. Cordill, soga fina. <EX> Lligaren la càrrega amb cordall fort per no perdre-la en lo camí. <END>
+
+<MOT> COSTALLA <DEF> , ADA adj. Costós, ample. <EX> Les costalles de la casa eren fortes i sostenien la teulada vella. <END>
+
+<MOT> COTXÍ <DEF> , OSA s. Utensili de tall, cotxí. <EX> Amb lo cotxí tallaren la fusta per fer les reses del carro. <END>
+
+<MOT> CREMALL <DEF> , OSA s. Reixeta, peça de ferro. <EX> Posaren cremalls a la finestra per evitar l'entrada d'aus i forces. <END>
+
+<MOT> DALFAR <DEF> , ADA adj. Estrany, rar. <EX> Lo dalfar object aparegué en l'arca com cosa de gran meravella. <END>
+
+<MOT> DEFLOR <DEF> , V. v. Desflorar, perdre flor. <EX> La flor deflorà quant la gelada vingué sobre les vinyes. <END>
+
+<MOT> DESMANT <DEF> , V. v. Desprendre, desmuntar. <EX> Desmantaren la taula antiga per fer taulons nous per la nau. <END>
+
+<MOT> ESCARDÓ <DEF> , OSA s. Escarificació, esgarrinx. <EX> Amb escardó netejaren la terra per plantar la vinya e la sega. <END>
+
+<MOT> ESCORSA <DEF> , OSA s. Escorça de fusta, capa externa. <EX> Retiren l'escorsa per curar la fusta i usar-la en la caldera. <END>
+
+<MOT> ESPELT <DEF> , ADA adj. Prim, escàs. <EX> La collita fou spelt e no donà prou farina per la comunitat. <END>
+
+<MOT> ESPERN <DEF> , OSA s. Rascada, esgarrap. <EX> L'éspern a la porta testificava l'entrada d'animals menuts a la nit. <END>
+
+<MOT> ESTIBAR <DEF> , V. v. Estibar, apilar. <EX> Estibaren les provisions a la cambra per a l'hivern venidor. <END>
+
+<MOT> FALDRÓ <DEF> , OSA s. Falda curta, faldó. <EX> La noia vestí faldró de llana per ballar a la festa del poble. <END>
+
+<MOT> FARGA <DEF> , OSA s. Taller de ferro, forja. <EX> A la farga forjaven espases i claus per les cavalleries reials. <END>
+
+<MOT> FERRÍN <DEF> , ADA adj. Ferruginós, rovellat. <EX> Lo clau ferrín fou llençat al foc per netejar-lo e tornar-lo sol. <END>
+
+<MOT> FLARÍ <DEF> , OSA s. Brasa viva, flamarada menuda. <EX> Encendaren un flarí per coure paets i escalfar l'aigua de la font. <END>
+
+<MOT> FOLLA <DEF> , OSA s. Llençol, tapa de llit. <EX> Posaren folla neta per als infants que arribaren de la travessia. <END>
+
+<MOT> FRANXÓ <DEF> , ADA adj. Fràgil, prim. <EX> Lo bressol franxó no resistí la tempesta que buffà la nit. <END>
+
+<MOT> GAVINYA <DEF> , OSA s. Ganxo per vines, suport. <EX> Penjaren la gavinya per assecar les mantas al sol del matí. <END>
+
+<MOT> GIRÓ <DEF> , OSA s. Rotlle, rodeta. <EX> Amb giró giraren la corda per provar el nus sobre la barca. <END>
+
+<MOT> GUALDÓ <DEF> , ADA adj. Daurat, lluent. <EX> El mantell gualdó del senyor lluïa en la processó solemne. <END>
+
+<MOT> GURPELL <DEF> , OSA s. Pell curt, pell de bestiar. <EX> Feren coixins de gurpell per alleugerir los seients de la casa. <END>
+
+<MOT> IVERNAR <DEF> , V. v. Hivernar, passar l'hivern. <EX> Les oques ivernaren a la riba i no volgueren volar fins la primavera. <END>
+
+<MOT> LLOMBRÍ <DEF> , ADA adj. Rodó, llombri. <EX> El pa era llombrí e tendre, e tots se n'ho menjaren amb goig. <END>
